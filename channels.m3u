@@ -1,2004 +1,933 @@
-#EXTM3U
-#EXTINF:-1,NDTV Spice
-http://185.95.109.144:8125/play/a00e
-#EXTINF:-1,Bike
-http://185.95.109.144:8125/play/a006
-#EXTINF:-1,Movies 24
-http://185.95.109.144:8125/play/a007
-#EXTINF:-1,Quest Red
-http://185.95.109.144:8125/play/a005
-#EXTINF:-1,Comedy Central
-http://185.95.109.144:8125/play/a00o
-#EXTINF:-1,NDTV India
-http://185.95.109.144:8125/play/a00d
-#EXTINF:-1,NDTV Good Times
-http://185.95.109.144:8125/play/a00f
-#EXTINF:-1,Universal Channel
-http://185.95.109.144:8125/play/a008
-#EXTINF:-1,FOX
-http://185.95.109.144:8125/play/a00l
-#EXTINF:-1,Sky Arts
-http://185.95.109.144:8125/play/a00m
-#EXTINF:-1,BBC NEWS
-http://185.95.109.144:8125/play/a00c
-#EXTINF:-1,E!
-http://185.95.109.144:8125/play/a00a
-#EXTINF:-1,Syfy
-http://185.95.109.144:8125/play/a009
-#EXTINF:-1,Nickelodeon
-http://185.95.109.144:8125/play/a00j
-#EXTINF:-1,Nicktoons
-http://185.95.109.144:8125/play/a00i
-#EXTINF:-1,Nick Junior
-http://185.95.109.144:8125/play/a00h
-#EXTINF:-1,---SKYUK One----
-#EXTINF:-1,VIP UK: BT SPORTS HD 1
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8040.ts
-#EXTINF:-1,VIP UK: BT SPORTS HD 2
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8039.ts
-#EXTINF:-1,VIP UK: BT SPORTS HD 3
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8038.ts
-#EXTINF:-1,VIP UK: PREMIER SPORTS HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8037.ts
-#EXTINF:-1,VIP UK: SKY SPORTS  1 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8036.ts
-#EXTINF:-1,VIP UK: SKY SPORTS  2 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8035.ts
-#EXTINF:-1,VIP UK: SKY SPORTS  3 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8034.ts
-#EXTINF:-1,VIP UK: SKY SPORTS  4 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8033.ts
-#EXTINF:-1,VIP UK: SKY SPORTS  5 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8032.ts
-#EXTINF:-1,VIP UK: SKY SPORTS  F1 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8031.ts
-#EXTINF:-1,UK: Sky 1
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8062.ts
-#EXTINF:-1,UK: Sky 2
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8061.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3084.ts
-#EXTINF:-1,UK: Channel 5 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3085.ts
-#EXTINF:-1,UK: CHELSEA TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5655.ts
-#EXTINF:-1,UK: CNN HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8042.ts
-#EXTINF:-1,UK: Dave HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3088.ts
-#EXTINF:-1,UK: BBC Alba
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8052.ts
-#EXTINF:-1,UK: BBC Parliament
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8053.ts
-#EXTINF:-1,UK: Boomerang
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8029.ts
-#EXTINF:-1,UK: Box Nation
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8030.ts
-#EXTINF:-1,UK:  ITV Encore
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8083.ts
-#EXTINF:-1,UK:  ITV Be
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8082.ts
-#EXTINF:-1,UK: MTV Rocks HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8081.ts
-#EXTINF:-1,UK:  MTV Music UK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8080.ts
-#EXTINF:-1,UK:  MTV Live HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8079.ts
-#EXTINF:-1,UK:  MTV Hits HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8078.ts
-#EXTINF:-1,UK:  MTV Dance HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8077.ts
-#EXTINF:-1,UK:  Real Lives
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8076.ts
-#EXTINF:-1,UK:  Lifetime HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8075.ts
-#EXTINF:-1,UK: Heart TV HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8074.ts
-#EXTINF:-1,UK: eir Sports 2 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8073.ts
-#EXTINF:-1,UK:  eir Sports 1
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8072.ts
-#EXTINF:-1,UK:  Challenge
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8071.ts
-#EXTINF:-1,UK:  CBeebies
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8070.ts
-#EXTINF:-1,UK:  ABC NEWS
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8069.ts
-#EXTINF:-1,UK:  SKY Movies Disney HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8068.ts
-#EXTINF:-1,UK: LFC TV HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8067.ts
-#EXTINF:-1,UK:  ID
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8066.ts
-#EXTINF:-1,Uk: Disney Channel
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8065.ts
-#EXTINF:-1,UK: DisneyJunior
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8064.ts
-#EXTINF:-1,UK:  E! Entertainment
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8063.ts
-#EXTINF:-1,UK:  Sky Sp News HQ
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8060.ts
-#EXTINF:-1,UK Travel Channel
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8058.ts
-#EXTINF:-1,UK:  CBCC HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8054.ts
-#EXTINF:-1,UK: 4 music
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8051.ts
-#EXTINF:-1,UK: Manchester United TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8050.ts
-#EXTINF:-1,UK: Liverpool FC
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8049.ts
-#EXTINF:-1,UK|: Comedy Extra
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8043.ts
-#EXTINF:-1,UK:  CITV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8041.ts
-#EXTINF:-1,UK:  H2
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8055.ts
-#EXTINF:-1,UK:  Nick JR Peppa
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8048.ts
-#EXTINF:-1,UK:  Spike UK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8059.ts
-#EXTINF:-1,UK:  Universal Channel UK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8057.ts
-#EXTINF:-1,UK:  Vintage UK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8056.ts
-#EXTINF:-1,UK: CARTOON NETWORK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5656.ts
-#EXTINF:-1,UK:  Discovery Shed UK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8047.ts
-#EXTINF:-1,UK:  Discovery Home&Health
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/8046.ts
-#EXTINF:-1,UK: Nick Junior
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2241.ts
-#EXTINF:-1,UK: Nick-Jr-Too
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2242.ts
-#EXTINF:-1,UK: Nickelodeon
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2240.ts
-#EXTINF:-1,UK: Nicktoons
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1943.ts
-#EXTINF:-1,UK: True Movies 1
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1446.ts
-#EXTINF:-1,UK: True Movies 2
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1447.ts
-#EXTINF:-1,UK | BBC 1 Scotland
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/5317.ts
-#EXTINF:-1,UK | BBC 1 Irish FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4984.ts
-#EXTINF:-1,UK | BBC 1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/575.ts
-#EXTINF:-1,UK | BBC 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/576.ts
-#EXTINF:-1,UK | BBC 1 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3331.ts
-#EXTINF:-1,UK | BBC 2 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/577.ts
-#EXTINF:-1,UK | BBC 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/578.ts
-#EXTINF:-1,UK | BBC 2 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3330.ts
-#EXTINF:-1,UK | BBC 3 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/20487.ts
-#EXTINF:-1,UK | BBC Red Button
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/15282.ts
-#EXTINF:-1,UK | ITV SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/579.ts
-#EXTINF:-1,UK | ITV HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/580.ts
-#EXTINF:-1,UK | ITV 1 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3327.ts
-#EXTINF:-1,UK | Channel 4 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/581.ts
-#EXTINF:-1,UK | Channel 4 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/582.ts
-#EXTINF:-1,Uk | CHANNEL 4 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3325.ts
-#EXTINF:-1,UK | Channel 5 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/583.ts
-#EXTINF:-1,UK | Channel 5 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/584.ts
-#EXTINF:-1,UK | CHANNEL 5 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3324.ts
-#EXTINF:-1,UK | BBC Alba
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4355.ts
-#EXTINF:-1,UK | Sky 1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/585.ts
-#EXTINF:-1,UK | SKY 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19339.ts
-#EXTINF:-1,UK | Sky 2 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/586.ts
-#EXTINF:-1,UK | Watch SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/587.ts
-#EXTINF:-1,UK | Watch HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1414.ts
-#EXTINF:-1,UK | GOLD SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/588.ts
-#EXTINF:-1,UK | GOLD   +1
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4986.ts
-#EXTINF:-1,UK | Dave SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/589.ts
-#EXTINF:-1,UK | Dave HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1419.ts
-#EXTINF:-1,UK | Sky Living SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/590.ts
-#EXTINF:-1,UK | Sky Living HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1749.ts
-#EXTINF:-1,UK | CBBC HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/591.ts
-#EXTINF:-1,UK | BBC 4 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1726.ts
-#EXTINF:-1,UK | ITV 2 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/593.ts
-#EXTINF:-1,UK | ITV 2 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3326.ts
-#EXTINF:-1,UK | ITV 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1702.ts
-#EXTINF:-1,UK | ITV 3 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/594.ts
-#EXTINF:-1,UK | ITV 3 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1701.ts
-#EXTINF:-1,UK | ITV 3 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3991.ts
-#EXTINF:-1,UK | ITV 4 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/595.ts
-#EXTINF:-1,UK | ITV 4 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1700.ts
-#EXTINF:-1,UK | ITV 4 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3992.ts
-#EXTINF:-1,UK | ITV Be
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/911.ts
-#EXTINF:-1,UK | ITV Be HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1408.ts
-#EXTINF:-1,UK | ITV Encore HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1412.ts
-#EXTINF:-1,UK | Comedy Central SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/598.ts
-#EXTINF:-1,UK | Comedy Central HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1714.ts
-#EXTINF:-1,UK | Comedy Central Extra SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1751.ts
-#EXTINF:-1,UK | COMEDY CENTRAL EXTRA +1
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4995.ts
-#EXTINF:-1,UK | Syfy HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1744.ts
-#EXTINF:-1,UK | Hallmark HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1752.ts
-#EXTINF:-1,UK | Alibi SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/600.ts
-#EXTINF:-1,UK | Alibi HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1728.ts
-#EXTINF:-1,UK | E4 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/601.ts
-#EXTINF:-1,UK | E4 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1711.ts
-#EXTINF:-1,UK | More4 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/602.ts
-#EXTINF:-1,UK | More4 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1471.ts
-#EXTINF:-1,UK | DMAX SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/603.ts
-#EXTINF:-1,UK | DMAX +1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1753.ts
-#EXTINF:-1,UK | CBS Reality SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/604.ts
-#EXTINF:-1,UK | CBS Action SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/605.ts
-#EXTINF:-1,UK | CBS Drama SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/606.ts
-#EXTINF:-1,UK | E! Entertainment SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/607.ts
-#EXTINF:-1,UK | Quest SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/608.ts
-#EXTINF:-1,UK | BLAZE
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/5017.ts
-#EXTINF:-1,UK | MY5
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4989.ts
-#EXTINF:-1,UK | PBS America FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3308.ts
-#EXTINF:-1,UK | YOUR TV
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/5004.ts
-#EXTINF:-1,UK | Dave Ja Vu SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1754.ts
-#EXTINF:-1,UK | Five USA SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/610.ts
-#EXTINF:-1,UK | True Entertainment SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/611.ts
-#EXTINF:-1,UK | 1Music SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2529.ts
-#EXTINF:-1,UK | Really SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/636.ts
-#EXTINF:-1,UK | Good Food SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/637.ts
-#EXTINF:-1,UK | Good Food HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1706.ts
-#EXTINF:-1,UK | Travel Channel SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/638.ts
-#EXTINF:-1,UK | Fox
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/609.ts
-#EXTINF:-1,UK | Fox HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1417.ts
-#EXTINF:-1,UK | Lifetime HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1416.ts
-#EXTINF:-1,UK | Pick TV
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/739.ts
-#EXTINF:-1,UK | Sky Atlantic
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/20136.ts
-#EXTINF:-1,UK | Sky Arts SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/639.ts
-#EXTINF:-1,UK | Sky Arts HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1810.ts
-#EXTINF:-1,UK | Sky Real Lives SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/17318.ts
-#EXTINF:-1,UK | QVC
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/15531.ts
-#EXTINF:-1,UK | QVC +1
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/15532.ts
-#EXTINF:-1,UK | QVC Beauty
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/15535.ts
-#EXTINF:-1,UK | QVC Extra
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/15534.ts
-#EXTINF:-1,UK | QVC Style
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/15533.ts
-#EXTINF:-1,UK | Bravo SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/596.ts
-#EXTINF:-1,UK | Challenge SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/597.ts
-#EXTINF:-1,UK | Spike SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2894.ts
-#EXTINF:-1,UK | Food Network SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/641.ts
-#EXTINF:-1,UK | Food Network +1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2034.ts
-#EXTINF:-1,UK | Universal SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/749.ts
-#EXTINF:-1,UK | Universal HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3990.ts
-#EXTINF:-1,UK | BET BlackEntTv
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19334.ts
-#EXTINF:-1,UK | 4Seven
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1403.ts
-#EXTINF:-1,UK | 5Star
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/966.ts
-#EXTINF:-1,UK | AMC
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/762.ts
-#EXTINF:-1,UK | Bike
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1592.ts
-#EXTINF:-1,UK | Drama SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2132.ts
-#EXTINF:-1,UK | RT FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3309.ts
-#EXTINF:-1,UK | UTV Ireland SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3956.ts
-#EXTINF:-1,UK | Vintage TV SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2122.ts
-#EXTINF:-1,UK | RTE 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/741.ts
-#EXTINF:-1,UK | RTE 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/742.ts
-#EXTINF:-1,UK | TG3 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/17320.ts
-#EXTINF:-1,UK | TG4 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/17319.ts
-#EXTINF:-1,UK | 3E SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/18035.ts
-#EXTINF:-1,UK | STV FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3328.ts
-#EXTINF:-1,UK | Tru TV +1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2038.ts
-#EXTINF:-1,UK | True Drama SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2125.ts
-#EXTINF:-1,UK | TLC
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/967.ts
-#EXTINF:-1,UK | TLC  +2
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/5015.ts
-#EXTINF:-1,UK | UTV HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1404.ts
-#EXTINF:-1,UK | UTV FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3307.ts
-#EXTINF:-1,UK | Sky Cinema Premiere SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/969.ts
-#EXTINF:-1,UK | Sky Cinema Premiere HD **
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/968.ts
-#EXTINF:-1,UK | Sky Cinema Comedy SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/981.ts
-#EXTINF:-1,UK | SKY MOVIES COMEDY HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19341.ts
-#EXTINF:-1,UK | Sky Cinema Action & Adventure SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/979.ts
-#EXTINF:-1,UK | Sky Cinema Action HD Local
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2861.ts
-#EXTINF:-1,UK | Sky Cinema Family SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3989.ts
-#EXTINF:-1,UK | SKY MOVIES FAMILY HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19340.ts
-#EXTINF:-1,UK | Sky Cinema Drama & Romance SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/985.ts
-#EXTINF:-1,UK | Sky Cinema Drama & Romance HD**
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/984.ts
-#EXTINF:-1,UK | Sky Cinema Scifi & Horror SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/987.ts
-#EXTINF:-1,UK | SKY MOVIES SCI-FI HORROR HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19342.ts
-#EXTINF:-1,UK | Sky Cinema Select  SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/989.ts
-#EXTINF:-1,UK | Sky Cinema Select HD**
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/988.ts
-#EXTINF:-1,UK | Sky Cinema Crime & Thriller SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/983.ts
-#EXTINF:-1,UK | Sky Cinema Crime & Thriller HD Local
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2865.ts
-#EXTINF:-1,UK | Sky Cinema Disney SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/975.ts
-#EXTINF:-1,UK | Sky Cinema Disney HD **
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/974.ts
-#EXTINF:-1,UK | Sky Cinema Hits SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/971.ts
-#EXTINF:-1,UK | Sky Cinema Fast & Furious HD Local
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2863.ts
-#EXTINF:-1,UK | SKY MOVIES GREATS HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19343.ts
-#EXTINF:-1,UK | Film4 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/651.ts
-#EXTINF:-1,UK | Film 4 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1811.ts
-#EXTINF:-1,UK | TCM SD *
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2126.ts
-#EXTINF:-1,UK | TCM SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/652.ts
-#EXTINF:-1,UK | TCM HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1415.ts
-#EXTINF:-1,UK | True Movies 1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/654.ts
-#EXTINF:-1,UK | True Movies 2 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/655.ts
-#EXTINF:-1,UK | TRUE CRIME
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/5001.ts
-#EXTINF:-1,UK | Horror Channel SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/653.ts
-#EXTINF:-1,UK | Movies 4 Men SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/656.ts
-#EXTINF:-1,UK | Movies24 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/657.ts
-#EXTINF:-1,UK | Movies 24 +1
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4983.ts
-#EXTINF:-1,UK | MTV Live HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1466.ts
-#EXTINF:-1,UK | MTV SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/658.ts
-#EXTINF:-1,UK | MTV HD **
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1468.ts
-#EXTINF:-1,UK | MTV MUSIC
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4988.ts
-#EXTINF:-1,UK | MTV Base SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/659.ts
-#EXTINF:-1,UK | MTV Hits SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/660.ts
-#EXTINF:-1,UK | MTV Dance SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/661.ts
-#EXTINF:-1,UK | VH1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/663.ts
-#EXTINF:-1,UK | MTV Classic SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/664.ts
-#EXTINF:-1,UK | Viva SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/665.ts
-#EXTINF:-1,UK | 4Music SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/667.ts
-#EXTINF:-1,UK | Box Upfront SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19293.ts
-#EXTINF:-1,UK | Kiss SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/668.ts
-#EXTINF:-1,UK | Kiss TV
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1070.ts
-#EXTINF:-1,UK | 1Music HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2531.ts
-#EXTINF:-1,UK | Capital TV
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/752.ts
-#EXTINF:-1,UK | Heart FM TV
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1068.ts
-#EXTINF:-1,UK | Viceland SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2098.ts
-#EXTINF:-1,UK | Virgin Radio TV
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1069.ts
-#EXTINF:-1,UK | Chart Show TV SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/669.ts
-#EXTINF:-1,UK | The Vault SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1813.ts
-#EXTINF:-1,UK | Flava SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/670.ts
-#EXTINF:-1,UK | Kerrang TV SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/671.ts
-#EXTINF:-1,UK | Scuzz SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/672.ts
-#EXTINF:-1,UK | Sky Sports 1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/519.ts
+#EXTINF:-1,::::::::::::  (     Sky Sport  UK    )  ::::::::::::
 #EXTINF:-1,UK | Sky Sports 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19338.ts
-#EXTINF:-1,UK | Sky Sports 1 HD **
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/520.ts
-#EXTINF:-1,UK | Sky Sports 1 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3319.ts
-#EXTINF:-1,UK | Sky Sports 2 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/522.ts
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/229.ts
 #EXTINF:-1,UK | Sky Sports 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19337.ts
-#EXTINF:-1,UK | Sky Sports 2 HD **
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/523.ts
-#EXTINF:-1,UK | Sky Sports 2 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3318.ts
-#EXTINF:-1,UK | Sky Sports 3 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/525.ts
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/228.ts
 #EXTINF:-1,UK | Sky Sports 3 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19336.ts
-#EXTINF:-1,UK | Sky Sports 3 HD **
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/526.ts
-#EXTINF:-1,UK | Sky Sports 3 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3317.ts
-#EXTINF:-1,UK | Sky Sports 4 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/528.ts
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/227.ts
 #EXTINF:-1,UK | Sky Sports 4 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/19335.ts
-#EXTINF:-1,UK | Sky Sports 4 HD **
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/529.ts
-#EXTINF:-1,UK | Sky Sports 4 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3316.ts
-#EXTINF:-1,UK | Sky Sports 5 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/531.ts
-#EXTINF:-1,UK | Sky Sports 5 HD **
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/532.ts
-#EXTINF:-1,UK | SKY SPORTS 5 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3315.ts
-#EXTINF:-1,UK | Sky Sports 2 IRE
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4358.ts
-#EXTINF:-1,UK | Sky Sports News SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/537.ts
-#EXTINF:-1,UK | Sky Sports News HD Local
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2765.ts
-#EXTINF:-1,UK | Sky Sports F1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/534.ts
-#EXTINF:-1,UK | Sky Sports F1 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/16197.ts
-#EXTINF:-1,UK | Sky Sports F1 HD Local
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2717.ts
-#EXTINF:-1,UK | Sky Sports Mix SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/912.ts
-#EXTINF:-1,UK | Sky Sports Mix HD**
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1413.ts
-#EXTINF:-1,UK | Sky Sports Box Office
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/781.ts
-#EXTINF:-1,UK | BT Sport 1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/539.ts
-#EXTINF:-1,UK | BT Sport 1 HD**
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/540.ts
-#EXTINF:-1,UK | BT Sport 1 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3322.ts
-#EXTINF:-1,UK | BT Sport 2 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/541.ts
-#EXTINF:-1,UK | BT Sport 2 HD**
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/542.ts
-#EXTINF:-1,UK | BT Sport 2 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3321.ts
-#EXTINF:-1,UK | BT Sport 3 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/543.ts
-#EXTINF:-1,UK | BT Sport 3 HD**
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/544.ts
-#EXTINF:-1,UK | BT Sport 3 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3320.ts
-#EXTINF:-1,UK | BT Sport Extra 1
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1073.ts
-#EXTINF:-1,UK | BT Sport Extra 2
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1074.ts
-#EXTINF:-1,UK | BT Sport Extra 3
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1075.ts
-#EXTINF:-1,UK | BT Sport Extra 4
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1076.ts
-#EXTINF:-1,UK | Premier Sports SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2129.ts
-#EXTINF:-1,UK | Premier Sports HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1010.ts
-#EXTINF:-1,UK | PREMIER SPORTS FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3313.ts
-#EXTINF:-1,UK | Eir Sports 1
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1119.ts
-#EXTINF:-1,UK | Eir Sports 2
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1120.ts
-#EXTINF:-1,UK | Celtic TV (Match Day Only)
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/956.ts
-#EXTINF:-1,UK | Rangers TV (Matchday Only)
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/957.ts
-#EXTINF:-1,UK | MUTV SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/547.ts
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/226.ts
+#EXTINF:-1,UK | Sky Sports 5 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/225.ts
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/224.ts
+#EXTINF:-1,UK | Sky Sp News HQ
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/223.ts
+#EXTINF:-1,UK | Fox Sports1 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/233.ts
+#EXTINF:-1,UK | SKY Fox Sports2 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/232.ts
+#EXTINF:-1,UK | SKY Fox Sports3 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/231.ts
+#EXTINF:-1,UK | BT Sport 1HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/251.ts
+#EXTINF:-1,UK | BT Sport 2HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/250.ts
+#EXTINF:-1,UK | BT Sport 3HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/249.ts
+#EXTINF:-1,UK | BT Sport EUROPE HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/248.ts
+#EXTINF:-1,UK | BT Sport ESPN HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/247.ts
+#EXTINF:-1,UK | BT Sports Extra 1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/243.ts
+#EXTINF:-1,UK | BT Sports Extra 4
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/244.ts
+#EXTINF:-1,UK | BT Sports Extra 3
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/245.ts
+#EXTINF:-1,UK | BT Sports Extra 2
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/246.ts
+#EXTINF:-1,UK | Setanta Sports 1 / Premier Sports
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/234.ts
+#EXTINF:-1,UK | Viasat Golf
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/239.ts
+#EXTINF:-1,UK | Box Nation
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/238.ts
+#EXTINF:-1,UK | At The Races
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/235.ts
 #EXTINF:-1,UK | MUTV HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1461.ts
-#EXTINF:-1,UK | MUTV FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3311.ts
-#EXTINF:-1,UK | Eurosport 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/550.ts
-#EXTINF:-1,UK | Eurosport 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/552.ts
-#EXTINF:-1,UK | Box Nation SD **
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/673.ts
-#EXTINF:-1,UK | Motors TV SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/554.ts
-#EXTINF:-1,UK | At The Races SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/555.ts
-#EXTINF:-1,UK | BT Sport Espn SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/545.ts
-#EXTINF:-1,UK | BT Sports Espn HD**
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4555.ts
-#EXTINF:-1,UK | RedBull TV HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2131.ts
-#EXTINF:-1,UK | William Hill TV
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1071.ts
-#EXTINF:-1,UK | EIR SPORTS 2 FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3312.ts
-#EXTINF:-1,UK | Chelsea TV
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/548.ts
-#EXTINF:-1,UK | Chelsea TV Test
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3414.ts
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/242.ts
+#EXTINF:-1,UK | LIVERPOOL TV
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/241.ts
+#EXTINF:-1,UK | Chelsea TV HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/240.ts
+#EXTINF:-1,UK | Motors UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/237.ts
 #EXTINF:-1,UK | Racing UK
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/558.ts
-#EXTINF:-1,UK | RACING UK FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3323.ts
-#EXTINF:-1,UK | LFCTV
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/549.ts
-#EXTINF:-1,UK | LFC TV HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1421.ts
-#EXTINF:-1,UK | Sky News SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/612.ts
-#EXTINF:-1,UK | Sky News HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1411.ts
-#EXTINF:-1,UK | Euronews
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/617.ts
-#EXTINF:-1,RT News (Direct)
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/750.ts
-#EXTINF:-1,UK | Bloomberg
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/613.ts
-#EXTINF:-1,UK | Al Jazeera English
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/619.ts
-#EXTINF:-1,UK | CNBC
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/615.ts
-#EXTINF:-1,UK | CNN HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/616.ts
-#EXTINF:-1,UK | BBC News
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/614.ts
-#EXTINF:-1,UK | Fox News
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/618.ts
-#EXTINF:-1,UK | CNN FHD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3310.ts
-#EXTINF:-1,France 24 (Direct)
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/751.ts
-#EXTINF:-1,UK | Discovery Channel SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/559.ts
-#EXTINF:-1,UK | Discovery HD**
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1423.ts
-#EXTINF:-1,UK | Discovery Turbo
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/560.ts
-#EXTINF:-1,UK | Discovery Science
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/561.ts
-#EXTINF:-1,UK | Discovery History
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1079.ts
-#EXTINF:-1,UK | Discovery Investigation SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/564.ts
-#EXTINF:-1,UK | INVESTIGATION DISCOVERY +1
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/5009.ts
-#EXTINF:-1,UK | Discovery Home & Health SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1809.ts
-#EXTINF:-1,UK | Discovery Shed
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/563.ts
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/236.ts
+#EXTINF:-1,::::::::::::  Entertainment  ::::::::::::
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/265.ts
 #EXTINF:-1,UK | Animal Planet
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/573.ts
-#EXTINF:-1,UK | Animal Planet HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1424.ts
-#EXTINF:-1,UK | Animal Planet +1
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/5005.ts
-#EXTINF:-1,UK | National Geographic SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/565.ts
-#EXTINF:-1,UK | Nat Geo HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1420.ts
-#EXTINF:-1,UK | History 1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/17439.ts
-#EXTINF:-1,UK | History 2 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1422.ts
-#EXTINF:-1,UK | Eden
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/570.ts
-#EXTINF:-1,UK | Eden HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1418.ts
-#EXTINF:-1,UK | Nat Geo Wild
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/566.ts
-#EXTINF:-1,UK | Crime & Investigation SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2134.ts
-#EXTINF:-1,UK | Home SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1759.ts
-#EXTINF:-1,UK | CREATE AND CRAFT SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1803.ts
-#EXTINF:-1,UK | H2
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/569.ts
-#EXTINF:-1,UK | Cartoon Network SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/620.ts
-#EXTINF:-1,UK | Cartoon Network HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1410.ts
-#EXTINF:-1,UK | Boomerang SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/621.ts
-#EXTINF:-1,UK | Nickelodeon SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/622.ts
-#EXTINF:-1,UK | Nicktoons SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/623.ts
-#EXTINF:-1,UK | Disney XD SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/624.ts
-#EXTINF:-1,UK | Disney Channel SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/625.ts
-#EXTINF:-1,UK | Disney Junior SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2133.ts
-#EXTINF:-1,UK | CBeebies
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/627.ts
-#EXTINF:-1,UK | RTE  Junior HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/743.ts
-#EXTINF:-1,UK | Nick Jr
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/628.ts
-#EXTINF:-1,UK | Nick Jnr +1 SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/2035.ts
-#EXTINF:-1,UK | Nick Jnr Too SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/1805.ts
-#EXTINF:-1,UK | Tiny Pop SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/629.ts
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/264.ts
+#EXTINF:-1,UK | Discovery
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/263.ts
+#EXTINF:-1,UK | Discovery History
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/261.ts
+#EXTINF:-1,UK | Discovery Science
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/262.ts
+#EXTINF:-1,UK | Discovery Home&Health
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/260.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/259.ts
+#EXTINF:-1,UK | ID UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/256.ts
+#EXTINF:-1,UK | Nat Geo Wild UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/257.ts
+#EXTINF:-1,UK | National Geographic UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/258.ts
+#EXTINF:-1,UK | Travel Channel 1 UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/254.ts
+#EXTINF:-1,UK | Crime Investigation
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/255.ts
+#EXTINF:-1,UK | DMAX
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/253.ts
+#EXTINF:-1,:::::::::::: (    SKY UK     )  ::::::::::::
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/345.ts
+#EXTINF:-1,UK | Sky Action Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/306.ts
+#EXTINF:-1,UK | Sky Select Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/308.ts
+#EXTINF:-1,UK | Sky ScFiHorror Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/309.ts
+#EXTINF:-1,UK | Sky Premiere Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/300.ts
+#EXTINF:-1,UK | Sky Thriller Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/307.ts
+#EXTINF:-1,UK | Sky Movies Disney
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/301.ts
+#EXTINF:-1,UK | Sky Living 1 UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/317.ts
+#EXTINF:-1,UK | Sky Greats Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/302.ts
+#EXTINF:-1,UK | Sky Family Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/303.ts
+#EXTINF:-1,UK | Sky Drama Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/304.ts
+#EXTINF:-1,UK | Sky Comedy Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/305.ts
+#EXTINF:-1,UK | Sky Atlantic
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/318.ts
+#EXTINF:-1,UK | Comedy Xtra
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/333.ts
+#EXTINF:-1,UK | Comedy Central
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/334.ts
+#EXTINF:-1,UK | Sky Arts
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/319.ts
+#EXTINF:-1,UK | True Movies 1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/310.ts
+#EXTINF:-1,UK | True Movies 2
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/311.ts
+#EXTINF:-1,UK | Sky News UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/297.ts
+#EXTINF:-1,UK | CNN HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/299.ts
+#EXTINF:-1,UK | BBC News UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/296.ts
+#EXTINF:-1,UK | BBC 1 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/275.ts
+#EXTINF:-1,UK | BBC 2 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/276.ts
+#EXTINF:-1,UK | BBC 3 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/277.ts
+#EXTINF:-1,UK | CBS Action
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/340.ts
+#EXTINF:-1,UK | CBS Reality 1 UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/338.ts
+#EXTINF:-1,UK | CBS Drama
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/339.ts
+#EXTINF:-1,UK | Sky 1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/315.ts
+#EXTINF:-1,UK | Sky 2
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/316.ts
+#EXTINF:-1,UK | RTE Two
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/279.ts
+#EXTINF:-1,UK | BBC 4 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/278.ts
+#EXTINF:-1,UK | Real Lives
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/335.ts
+#EXTINF:-1,UK | Pick
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/330.ts
+#EXTINF:-1,UK | Yesterday  1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/322.ts
+#EXTINF:-1,UK | Watch
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/325.ts
+#EXTINF:-1,UK | UTV IE
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/286.ts
+#EXTINF:-1,UK | True Entertainment
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/312.ts
+#EXTINF:-1,UK | TV3 IE
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/287.ts
+#EXTINF:-1,UK | TG4
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/288.ts
+#EXTINF:-1,UK | TCM
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/313.ts
+#EXTINF:-1,UK | TCM  1 UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/314.ts
+#EXTINF:-1,UK | SyFy HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/320.ts
+#EXTINF:-1,UK | mov4men1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/337.ts
+#EXTINF:-1,UK | More 4
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/294.ts
+#EXTINF:-1,UK | London Live UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/344.ts
+#EXTINF:-1,UK | ITV Encore
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/285.ts
+#EXTINF:-1,UK | ITV Be
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/284.ts
+#EXTINF:-1,UK | ITV 1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/280.ts
+#EXTINF:-1,UK | ITV 2
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/281.ts
+#EXTINF:-1,UK | ITV 3
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/282.ts
+#EXTINF:-1,UK | ITV 4
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/283.ts
+#EXTINF:-1,UK | Horror Channel UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/341.ts
+#EXTINF:-1,UK | Home  1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/327.ts
+#EXTINF:-1,UK | History UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/342.ts
+#EXTINF:-1,UK | H2 UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/343.ts
+#EXTINF:-1,UK | GOLD HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/328.ts
+#EXTINF:-1,UK | Fox News
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/298.ts
+#EXTINF:-1,UK | Food Network UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/336.ts
+#EXTINF:-1,UK | Fine Living Network
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/332.ts
+#EXTINF:-1,UK | Film 4 UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/293.ts
+#EXTINF:-1,UK | Eden  1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/329.ts
+#EXTINF:-1,UK | E4
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/295.ts
+#EXTINF:-1,UK | E! Entertainment
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/323.ts
+#EXTINF:-1,UK | Drama UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/326.ts
+#EXTINF:-1,UK | Dave
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/321.ts
+#EXTINF:-1,UK | Alibi
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/324.ts
+#EXTINF:-1,UK | 3e
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/289.ts
+#EXTINF:-1,UK | Challenge
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/331.ts
+#EXTINF:-1,UK | Channel 4 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/292.ts
+#EXTINF:-1,UK | Channel 5 UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/290.ts
+#EXTINF:-1,UK | Channel 4 UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/291.ts
+#EXTINF:-1,UK | VH1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/273.ts
+#EXTINF:-1,UK | MTV Hits HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/178.ts
+#EXTINF:-1,UK | VIVA the Hits!
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/272.ts
+#EXTINF:-1,UK |  MTV Hits HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/270.ts
+#EXTINF:-1,UK | MTV Classic
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/266.ts
+#EXTINF:-1,UK | MTV Music UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/269.ts
+#EXTINF:-1,UK | MTV Dance
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/271.ts
+#EXTINF:-1,UK | MTV Base HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/267.ts
+#EXTINF:-1,UK | MTV Rocks HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/268.ts
+#EXTINF:-1,UK | 4Music
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2203.ts
+#EXTINF:-1,UK | 5 USA
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2204.ts
+#EXTINF:-1,UK | ABC News
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2205.ts
+#EXTINF:-1,UK | Al Jazeera News HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2206.ts
+#EXTINF:-1,UK | Baby TV
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2207.ts
+#EXTINF:-1,UK | BBC Alba
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2208.ts
+#EXTINF:-1,UK | BBC Four UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2209.ts
+#EXTINF:-1,UK | BBC News HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2210.ts
+#EXTINF:-1,UK | BBC One London
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2211.ts
+#EXTINF:-1,UK | BBC One Northern Ireland
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2212.ts
+#EXTINF:-1,UK | BBC One Scotland
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2213.ts
+#EXTINF:-1,UK | BBC One Wales
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2214.ts
+#EXTINF:-1,UK | BBC Parliament
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2215.ts
+#EXTINF:-1,UK | BBC Two Scotland
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2216.ts
+#EXTINF:-1,UK | BBC Two UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2217.ts
+#EXTINF:-1,UK | Cartoon Network UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2229.ts
 #EXTINF:-1,UK | Cartoonito
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/630.ts
-#EXTINF:-1,UK | Baby TV SD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/632.ts
-#EXTINF:-1,•●★--- UK Movies ----★●•
-#EXTINF:-1,UK: SKY MOVIES ACTION HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/577.ts
-#EXTINF:-1,UK: SKY MOVIES THRILLER
-http://xtream.globepremium.com:8000/live/fouad/fouad/570.ts
-#EXTINF:-1,UK: SKY MOVIES SELECT HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/571.ts
-#EXTINF:-1,UK: SKY MOVIES PREMIERE HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/572.ts
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2026.ts
-#EXTINF:-1,UK: SKY MOVIES ScFi HORROR
-http://xtream.globepremium.com:8000/live/fouad/fouad/2027.ts
-#EXTINF:-1,UK: SKY MOVIES DISNEY
-http://xtream.globepremium.com:8000/live/fouad/fouad/2028.ts
-#EXTINF:-1,UK: TCM
-http://xtream.globepremium.com:8000/live/fouad/fouad/573.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/574.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/575.ts
-#EXTINF:-1,UK: SKY MOVIES COMEDY HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/576.ts
-#EXTINF:-1,UK: True Movies 1
-http://xtream.globepremium.com:8000/live/fouad/fouad/2261.ts
-#EXTINF:-1,•●★--- UK Entertainment ----★●•
-http://xtream.globepremium.com:8000/live/fouad/fouad/2237.ts
-#EXTINF:-1,UK: SYFY
-http://xtream.globepremium.com:8000/live/fouad/fouad/2029.ts
-#EXTINF:-1,UK: HOME & HEALTH
-http://xtream.globepremium.com:8000/live/fouad/fouad/2035.ts
-#EXTINF:-1,UK: CBS ACTION
-http://xtream.globepremium.com:8000/live/fouad/fouad/2246.ts
-#EXTINF:-1,UK: CBS Reality
-http://xtream.globepremium.com:8000/live/fouad/fouad/2247.ts
-#EXTINF:-1,UK: E4
-http://xtream.globepremium.com:8000/live/fouad/fouad/2257.ts
-#EXTINF:-1,UK: E!
-http://xtream.globepremium.com:8000/live/fouad/fouad/2258.ts
-#EXTINF:-1,UK: 5 STAR
-http://xtream.globepremium.com:8000/live/fouad/fouad/2260.ts
-#EXTINF:-1,•●★--- UK Sport----★●•
-http://xtream.globepremium.com:8000/live/fouad/fouad/2238.ts
-#EXTINF:-1,UK: EIR SPORT 1
-http://xtream.globepremium.com:8000/live/fouad/fouad/4354.ts
-#EXTINF:-1,UK: EIR SPORT 2
-http://xtream.globepremium.com:8000/live/fouad/fouad/4355.ts
-#EXTINF:-1,UK: EUROSPORT 1
-http://xtream.globepremium.com:8000/live/fouad/fouad/2031.ts
-#EXTINF:-1,UK: EUROSPORT 2
-http://xtream.globepremium.com:8000/live/fouad/fouad/2032.ts
-#EXTINF:-1,UK: SKY PREMIER SPORTS HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/4353.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ
-http://xtream.globepremium.com:8000/live/fouad/fouad/550.ts
-#EXTINF:-1,UK: SKY SPORTS 1 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/551.ts
-#EXTINF:-1,UK: SKY SPORTS 2 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/552.ts
-#EXTINF:-1,UK: SKY SPORTS 3 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/553.ts
-#EXTINF:-1,UK: SKY SPORTS 4 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/554.ts
-#EXTINF:-1,UK: SKY SPORTS 5 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/555.ts
-#EXTINF:-1,UK: BOX NATION HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/3797.ts
-#EXTINF:-1,UK: SKY SPORTS F1
-http://xtream.globepremium.com:8000/live/fouad/fouad/561.ts
-#EXTINF:-1,UK: BT Sport 1
-http://xtream.globepremium.com:8000/live/fouad/fouad/562.ts
-#EXTINF:-1,UK: BT Sport 2
-http://xtream.globepremium.com:8000/live/fouad/fouad/563.ts
-#EXTINF:-1,UK: BT Sport 3
-http://xtream.globepremium.com:8000/live/fouad/fouad/4352.ts
-#EXTINF:-1,UK: BT Sport Eur HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/564.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://xtream.globepremium.com:8000/live/fouad/fouad/565.ts
-#EXTINF:-1,UK: BT SPORT EXTRA
-http://xtream.globepremium.com:8000/live/fouad/fouad/568.ts
-#EXTINF:-1,UK: FOX SPORTS 1 US HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/548.ts
-#EXTINF:-1,UK: FOX SPORTS 2 US HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/549.ts
-#EXTINF:-1,UK: Setanta Sport
-http://xtream.globepremium.com:8000/live/fouad/fouad/2256.ts
-#EXTINF:-1,UK: CHELSEA TV
-http://xtream.globepremium.com:8000/live/fouad/fouad/2262.ts
-#EXTINF:-1,UK: MUTV
-http://xtream.globepremium.com:8000/live/fouad/fouad/2788.ts
-#EXTINF:-1,UK: Motors TV
-http://xtream.globepremium.com:8000/live/fouad/fouad/3709.ts
-#EXTINF:-1,•●★--- UK Culture ----★●•
-http://xtream.globepremium.com:8000/live/fouad/fouad/2239.ts
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC CHANNEL
-http://xtream.globepremium.com:8000/live/fouad/fouad/2251.ts
-#EXTINF:-1,UK: NAT GEO WILD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2245.ts
-#EXTINF:-1,UK:  SKY One HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2023.ts
-#EXTINF:-1,UK: DISCOVERY TURBO
-http://xtream.globepremium.com:8000/live/fouad/fouad/2033.ts
-#EXTINF:-1,UK: DISCOVERY SCIENCE
-http://xtream.globepremium.com:8000/live/fouad/fouad/2034.ts
-#EXTINF:-1,UK: DISCOVERY INVESTIGATION
-http://xtream.globepremium.com:8000/live/fouad/fouad/2022.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY
-http://xtream.globepremium.com:8000/live/fouad/fouad/2036.ts
-#EXTINF:-1,UK: DISCOVERY
-http://xtream.globepremium.com:8000/live/fouad/fouad/2037.ts
-#EXTINF:-1,UK: DMAX_UK
-http://xtream.globepremium.com:8000/live/fouad/fouad/2259.ts
-#EXTINF:-1,•●★--- UK News ----★●•
-http://xtream.globepremium.com:8000/live/fouad/fouad/2242.ts
-#EXTINF:-1,UK: CCTV NEWS
-http://xtream.globepremium.com:8000/live/fouad/fouad/2025.ts
-#EXTINF:-1,UK: SKY NEWS HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2021.ts
-#EXTINF:-1,UK: LONDON LIVE
-http://xtream.globepremium.com:8000/live/fouad/fouad/2024.ts
-#EXTINF:-1,•●★--- UK Kids----★●•
-http://xtream.globepremium.com:8000/live/fouad/fouad/2241.ts
-#EXTINF:-1,UK: NICK JUNIOR
-http://xtream.globepremium.com:8000/live/fouad/fouad/2030.ts
-#EXTINF:-1,UK: Cartoon Network
-http://xtream.globepremium.com:8000/live/fouad/fouad/2097.ts
-#EXTINF:-1,UK: Disney XD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2249.ts
-#EXTINF:-1,UK: DISNEY CHANNEL HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2248.ts
-#EXTINF:-1,UK: NICKTOONS
-http://xtream.globepremium.com:8000/live/fouad/fouad/2252.ts
-#EXTINF:-1,•●★-USA CHANNELS-★●•
-#EXTINF:-1,US: TSN 1HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/5903.ts
-#EXTINF:-1,US: TSN 2 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2102.ts
-#EXTINF:-1,US: TSN 3 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2103.ts
-#EXTINF:-1,US: TSN 4 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2104.ts
-#EXTINF:-1,US: TSN 5 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2105.ts
-#EXTINF:-1,US: Animal Planet HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2106.ts
-#EXTINF:-1,US: Versus NBA HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2107.ts
-#EXTINF:-1,US: USA Network
-http://xtream.globepremium.com:8000/live/fouad/fouad/2108.ts
-#EXTINF:-1,US: CBSN HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2109.ts
-#EXTINF:-1,US: Espn HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2132.ts
-#EXTINF:-1,US: Espn 2HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/5902.ts
-#EXTINF:-1,US: MLB Network
-http://xtream.globepremium.com:8000/live/fouad/fouad/6669.ts
-#EXTINF:-1,US: Comedy Central HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2110.ts
-#EXTINF:-1,US: Travel Channel HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2111.ts
-#EXTINF:-1,US: WWE US
-http://xtream.globepremium.com:8000/live/fouad/fouad/2112.ts
-#EXTINF:-1,US: TNT HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2113.ts
-#EXTINF:-1,US: NBA TV
-http://xtream.globepremium.com:8000/live/fouad/fouad/2114.ts
-#EXTINF:-1,US: 5 USA
-http://xtream.globepremium.com:8000/live/fouad/fouad/2115.ts
-#EXTINF:-1,US: NBC Golf
-http://xtream.globepremium.com:8000/live/fouad/fouad/2116.ts
-#EXTINF:-1,US: SPORT NET 360
-http://xtream.globepremium.com:8000/live/fouad/fouad/2117.ts
-#EXTINF:-1,US: Fox sport 1 HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2118.ts
-#EXTINF:-1,US: Discovery HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2119.ts
-#EXTINF:-1,US: TLC HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2121.ts
-#EXTINF:-1,US: NFL Network HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2120.ts
-#EXTINF:-1,US: HBO
-http://xtream.globepremium.com:8000/live/fouad/fouad/2125.ts
-#EXTINF:-1,US: HBO ZONE
-http://xtream.globepremium.com:8000/live/fouad/fouad/2122.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://xtream.globepremium.com:8000/live/fouad/fouad/2123.ts
-#EXTINF:-1,US: HBO COMEDY
-http://xtream.globepremium.com:8000/live/fouad/fouad/2124.ts
-#EXTINF:-1,US: HALLMARK
-http://xtream.globepremium.com:8000/live/fouad/fouad/2126.ts
-#EXTINF:-1,US: ABC FAMILY
-http://xtream.globepremium.com:8000/live/fouad/fouad/2127.ts
-#EXTINF:-1,US: Fox-Sports 506HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2128.ts
-#EXTINF:-1,US: Food Network
-http://xtream.globepremium.com:8000/live/fouad/fouad/2129.ts
-#EXTINF:-1,US: FOX NEWS
-http://xtream.globepremium.com:8000/live/fouad/fouad/2130.ts
-#EXTINF:-1,US: Bein Sports USA HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2131.ts
-#EXTINF:-1,US: Discovery Science HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2133.ts
-#EXTINF:-1,US: CBS HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2134.ts
-#EXTINF:-1,US: CBS DRAMA
-http://xtream.globepremium.com:8000/live/fouad/fouad/2135.ts
-#EXTINF:-1,US: CBS ACTION
-http://xtream.globepremium.com:8000/live/fouad/fouad/2136.ts
-#EXTINF:-1,US: A&E HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2137.ts
-#EXTINF:-1,US: BET HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/4419.ts
-#EXTINF:-1,US: Tennis Channel HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2138.ts
-#EXTINF:-1,US: AFN MOVIE
-http://xtream.globepremium.com:8000/live/fouad/fouad/2139.ts
-#EXTINF:-1,US: ABC News HD
-http://xtream.globepremium.com:8000/live/fouad/fouad/2140.ts
-#EXTINF:-1,US: NBC
-http://xtream.globepremium.com:8000/live/fouad/fouad/3417.ts
-#EXTINF:-1,US: CNN
-http://xtream.globepremium.com:8000/live/fouad/fouad/3418.ts
-#EXTINF:-1,US: Nasa
-http://xtream.globepremium.com:8000/live/fouad/fouad/6712.ts
-#EXTINF:-1,USA | A&E
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4235.ts
-#EXTINF:-1,USA | ABC HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4240.ts
-#EXTINF:-1,USA | ABC NEWS
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4241.ts
-#EXTINF:-1,USA | ABC NEWS NOW
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4242.ts
-#EXTINF:-1,USA | AFN MOVIE
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4206.ts
-#EXTINF:-1,USA | AFN PRIME ATLANTIC
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4204.ts
-#EXTINF:-1,USA | AFN SPORTS 2
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4200.ts
-#EXTINF:-1,USA | AFN SPORTS HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4199.ts
-#EXTINF:-1,USA | AMC HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4211.ts
-#EXTINF:-1,USA | Animal Planet HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4244.ts
-#EXTINF:-1,USA | Bein Sports HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4266.ts
-#EXTINF:-1,USA | BIG TEN TETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4185.ts
-#EXTINF:-1,USA | BRAVO HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4246.ts
-#EXTINF:-1,USA | CARTOON NETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4268.ts
-#EXTINF:-1,USA | CBS HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4210.ts
-#EXTINF:-1,USA | CBS SPORTS NETWORK
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4269.ts
-#EXTINF:-1,USA | CINEMAX ACTION MAX
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4277.ts
-#EXTINF:-1,USA | CINEMAX HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4276.ts
-#EXTINF:-1,USA | CINEMAX MOREMAX HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4229.ts
-#EXTINF:-1,USA | CINEMAX THRILLER MAX
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4278.ts
-#EXTINF:-1,USA | CNBC
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4247.ts
-#EXTINF:-1,USA | CNN
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4248.ts
-#EXTINF:-1,USA | COMEDY CENTRAL
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4249.ts
-#EXTINF:-1,USA | CW
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4212.ts
-#EXTINF:-1,USA | DESTINATION AMERICA HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4213.ts
-#EXTINF:-1,USA | DISCOVERY HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4250.ts
-#EXTINF:-1,USA | DISCOVERY VELOCITY HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4214.ts
-#EXTINF:-1,USA | Disney HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4215.ts
-#EXTINF:-1,USA | DIY NETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4216.ts
-#EXTINF:-1,USA | E!
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4251.ts
-#EXTINF:-1,USA | ESPN 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4217.ts
-#EXTINF:-1,USA | ESPN HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4252.ts
-#EXTINF:-1,USA | Food Network HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4238.ts
-#EXTINF:-1,USA | Fox HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4218.ts
-#EXTINF:-1,USA | FOX NEWS
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4253.ts
-#EXTINF:-1,USA | Fox Sports 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4193.ts
-#EXTINF:-1,USA | Fox Sports 2 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4192.ts
-#EXTINF:-1,USA | Free Form HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4219.ts
-#EXTINF:-1,USA | FX
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4270.ts
-#EXTINF:-1,USA | FXX HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4220.ts
-#EXTINF:-1,USA | GSN HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4174.ts
-#EXTINF:-1,USA | H2
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4254.ts
-#EXTINF:-1,USA | Hallmark HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4239.ts
-#EXTINF:-1,USA | HBO 2
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4221.ts
-#EXTINF:-1,USA | HBO Comedy HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4222.ts
-#EXTINF:-1,USA | HBO FAMILY HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4274.ts
-#EXTINF:-1,USA | HBO HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4224.ts
-#EXTINF:-1,USA | HBO ZONE
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4226.ts
-#EXTINF:-1,USA | HGTV HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4227.ts
-#EXTINF:-1,USA | HIFI
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4228.ts
-#EXTINF:-1,USA | HISTORY
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4255.ts
-#EXTINF:-1,USA | INVESTIGATION DISOVERY HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4256.ts
-#EXTINF:-1,USA | LIFETIME
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4257.ts
-#EXTINF:-1,USA | MLB NETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4189.ts
-#EXTINF:-1,USA | MSNBC HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4271.ts
-#EXTINF:-1,USA | MY9
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4258.ts
-#EXTINF:-1,USA | NAT GEO WILD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4209.ts
-#EXTINF:-1,USA | NATIONAL GEOGRAPHIC HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4231.ts
-#EXTINF:-1,USA | NBA TV HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4186.ts
-#EXTINF:-1,USA | NBC
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4259.ts
-#EXTINF:-1,USA | NBCSN
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4236.ts
-#EXTINF:-1,USA | NBC Golf
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4183.ts
-#EXTINF:-1,USA | Pac12 Arizona HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/20470.ts
-#EXTINF:-1,USA | Pac12 Bay Area HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/20469.ts
-#EXTINF:-1,USA | Pac12 Los Angeles HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/20468.ts
-#EXTINF:-1,USA | Pac12 Mountain HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/20467.ts
-#EXTINF:-1,USA | Pac12 National HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/20466.ts
-#EXTINF:-1,USA | Pac12 Oregon HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/20465.ts
-#EXTINF:-1,USA | Pac12 Washington HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/20464.ts
-#EXTINF:-1,USA | NFL Network 1080i
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4187.ts
-#EXTINF:-1,USA | NFL NOW HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4182.ts
-#EXTINF:-1,USA | NHL NETWORK
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4190.ts
-#EXTINF:-1,USA | Nickelodeon
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4260.ts
-#EXTINF:-1,USA | OWN HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4232.ts
-#EXTINF:-1,USA | PBS
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4261.ts
-#EXTINF:-1,USA | SEC NETWORK HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4188.ts
-#EXTINF:-1,USA | Showtime 2
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4233.ts
-#EXTINF:-1,USA | SHOWTIME HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4234.ts
-#EXTINF:-1,USA | SPIKE HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4262.ts
-#EXTINF:-1,USA | Starz Cinema
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4280.ts
-#EXTINF:-1,USA | Starz Edge HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4283.ts
-#EXTINF:-1,USA | Starz Encore
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4284.ts
-#EXTINF:-1,USA | STARZ KIDS & FAMILY
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4279.ts
-#EXTINF:-1,USA | SYFY HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4263.ts
-#EXTINF:-1,USA | TBS
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4264.ts
-#EXTINF:-1,USA | TENNIS CHANNEL HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4191.ts
-#EXTINF:-1,USA | TNT HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4265.ts
-#EXTINF:-1,USA | UNIVERSAL HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4275.ts
-#EXTINF:-1,USA | USA Network
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4272.ts
-#EXTINF:-1,USA |  SPORT 1 HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4194.ts
-#EXTINF:-1,USA | WWE HD
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/4184.ts
-#EXTINF:-1,UFC Fight Pass HD (Live Events Only)
-http://uk-mega-iptv.is-found.org:25461/live/nelson/nelson/3957.ts
-#EXTINF:-1,❤❤❤❤  USA  ❤❤❤❤
-#EXTINF:-1,USA:USA Net
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2918.ts
-#EXTINF:-1,USA:Poker Central
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2921.ts
-#EXTINF:-1,USA:Nick
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2922.ts
-#EXTINF:-1,USA:NDTV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2924.ts
-#EXTINF:-1,USA:E! HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2914.ts
-#EXTINF:-1,USA: Starz Cinema
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2919.ts
-#EXTINF:-1,USA: SHOW TIME
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3764.ts
-#EXTINF:-1,USA: CNN
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3333.ts
-#EXTINF:-1,USA: CBS NEW,S
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3762.ts
-#EXTINF:-1,USA: BET
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3763.ts
-#EXTINF:-1,US: CW HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5108.ts
-#EXTINF:-1,US: WWE Network
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2211.ts
-#EXTINF:-1,US: Versus NBA HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5109.ts
-#EXTINF:-1,US: Cartoon Network-
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5110.ts
-#EXTINF:-1,US: TSN 5
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2322.ts
-#EXTINF:-1,US: TSN 4
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2206.ts
-#EXTINF:-1,US: TSN 3
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2321.ts
-#EXTINF:-1,US: TSN 2
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2205.ts
-#EXTINF:-1,US: TSN 1
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2204.ts
-#EXTINF:-1,US: TSC
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5111.ts
-#EXTINF:-1,US: ESPN Deportes-US
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5057.ts
-#EXTINF:-1,US: Comedy Central
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5058.ts
-#EXTINF:-1,US: TLC
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5059.ts
-#EXTINF:-1,US: TBS HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5061.ts
-#EXTINF:-1,US: SyFy US
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5062.ts
-#EXTINF:-1,US: Starz Edge
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5065.ts
-#EXTINF:-1,US: Starz East
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5063.ts
-#EXTINF:-1,US: STARS Cinema
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5064.ts
-#EXTINF:-1,US: SportsNet Ontario
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5067.ts
-#EXTINF:-1,US: SportsNet 360 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5068.ts
-#EXTINF:-1,US: Sports Net Pacific HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5069.ts
-#EXTINF:-1,US: RT America HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5070.ts
-#EXTINF:-1,US: Poker Central
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2214.ts
-#EXTINF:-1,US: Sports Net West HD-US
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5071.ts
-#EXTINF:-1,US: PAG HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5072.ts
-#EXTINF:-1,US: NFL HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5073.ts
-#EXTINF:-1,US: NBC HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5074.ts
-#EXTINF:-1,US: NBC Golf HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2216.ts
-#EXTINF:-1,US: Nickelodeon HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5076.ts
-#EXTINF:-1,US: Freeform HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5077.ts
-#EXTINF:-1,US: E!
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5078.ts
-#EXTINF:-1,US: LIFE TIME
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5079.ts
-#EXTINF:-1,US: History Channel
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5083.ts
-#EXTINF:-1,US: HGTV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5084.ts
-#EXTINF:-1,US: HBO ZONE
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2209.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5085.ts
-#EXTINF:-1,US: HBO Comdey
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5086.ts
-#EXTINF:-1,US: HBO East
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5087.ts
-#EXTINF:-1,US: HBO
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5088.ts
-#EXTINF:-1,US: HALLMARK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5089.ts
-#EXTINF:-1,US: Fox Sports 2
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2208.ts
-#EXTINF:-1,US: Fox Sports 1
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2207.ts
-#EXTINF:-1,US: Fox Sports  2
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2213.ts
-#EXTINF:-1,US: Fox Sports  1
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2212.ts
-#EXTINF:-1,US: FOX Deportes HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2217.ts
-#EXTINF:-1,US: Fox 59 News
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3380.ts
-#EXTINF:-1,US: FOX
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3379.ts
-#EXTINF:-1,US: Fight Network
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3219.ts
-#EXTINF:-1,US: ESPN
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2323.ts
-#EXTINF:-1,US: Discovery Science HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5091.ts
-#EXTINF:-1,US: Discovery Channel HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5092.ts
-#EXTINF:-1,US: Action Max HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7528.ts
-#EXTINF:-1,US: AMC HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7527.ts
-#EXTINF:-1,US: Cinemax HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7525.ts
-#EXTINF:-1,US: CNN HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7531.ts
-#EXTINF:-1,US: ESPN U HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7506.ts
-#EXTINF:-1,US: Fox Sports South
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7529.ts
-#EXTINF:-1,US: Fox Sports West
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7518.ts
-#EXTINF:-1,US: FX
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7524.ts
-#EXTINF:-1,US: FXX
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7523.ts
-#EXTINF:-1,US: Golf HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7535.ts
-#EXTINF:-1,US: Investigation Discovery HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7522.ts
-#EXTINF:-1,US: MLB Network HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7516.ts
-#EXTINF:-1,US: MoreMax HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7521.ts
-#EXTINF:-1,US: NBA HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7507.ts
-#EXTINF:-1,US: NBC Sports Network HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7534.ts
-#EXTINF:-1,US: NHL Network HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7533.ts
-#EXTINF:-1,US: PAC-12 Arizona HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7514.ts
-#EXTINF:-1,US: PAC-12 Bay Area HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7513.ts
-#EXTINF:-1,US: PAC-12 Los Angeles HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7512.ts
-#EXTINF:-1,US: PAC-12 Mountain HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7511.ts
-#EXTINF:-1,US: PAC-12 Oregon HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7510.ts
-#EXTINF:-1,US: PAC-12 Washington HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7509.ts
-#EXTINF:-1,US: Showtime
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7519.ts
-#EXTINF:-1,US: Spike HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7520.ts
-#EXTINF:-1,US: Sports Net One HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7530.ts
-#EXTINF:-1,US: Tennis Channel HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7532.ts
-#EXTINF:-1,US: USA Network
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/7517.ts
-#EXTINF:-1,US: TNT
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5093.ts
-#EXTINF:-1,US: Comedy C HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2215.ts
-#EXTINF:-1,US: CNBC
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2203.ts
-#EXTINF:-1,US: Cinemax
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5094.ts
-#EXTINF:-1,US: CBSN HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5095.ts
-#EXTINF:-1,US: CBS News HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5096.ts
-#EXTINF:-1,US: CBS DRAMA
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5097.ts
-#EXTINF:-1,US: CBS ACTION
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5098.ts
-#EXTINF:-1,US: BYU Sports TV HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5099.ts
-#EXTINF:-1,US: BRAVO
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2210.ts
-#EXTINF:-1,US: Bloomberg
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5100.ts
-#EXTINF:-1,US: BEIN SPORT
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2320.ts
-#EXTINF:-1,US: Animal Planet
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5101.ts
-#EXTINF:-1,US: Willow Cricket HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5102.ts
-#EXTINF:-1,US: ESPN 2 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2331.ts
-#EXTINF:-1,US: AFN SPORTS
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5103.ts
-#EXTINF:-1,US: AFN PULSE
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5104.ts
-#EXTINF:-1,US: A&E
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5105.ts
-#EXTINF:-1,US: ABC News HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5106.ts
-#EXTINF:-1,US: ABC News
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/2202.ts
-#EXTINF:-1,US: 360 North
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5107.ts
-#EXTINF:-1,US CBS Sports Network HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3221.ts
-#EXTINF:-1,US Fox Sports 506 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3230.ts
-#EXTINF:-1,US NFL Channel HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3220.ts
-#EXTINF:-1,US BYU Sports TV HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3231.ts
-#EXTINF:-1,•●★SKY-UK★●•
-#EXTINF:-1,UK: Alibi
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12892.ts
-#EXTINF:-1,UK: At The Races UK
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12942.ts
-#EXTINF:-1,UK: Baby Tv
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12885.ts
-#EXTINF:-1,UK: BBC 3 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12913.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12912.ts
-#EXTINF:-1,UK: BBC News
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12911.ts
-#EXTINF:-1,UK: BBC One HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12915.ts
-#EXTINF:-1,UK: BBC2 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12914.ts
-#EXTINF:-1,UK: Bloomberg
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12861.ts
-#EXTINF:-1,UK: Boomerang
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12884.ts
-#EXTINF:-1,UK: BoxNation
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12955.ts
-#EXTINF:-1,UK: British Eurosport
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12962.ts
-#EXTINF:-1,UK: British Eurosport 2
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12961.ts
-#EXTINF:-1,UK: BT Sport 1
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12966.ts
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2230.ts
+#EXTINF:-1,UK | CBBC
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2231.ts
+#EXTINF:-1,UK | CBBC HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2232.ts
+#EXTINF:-1,UK | CBeebies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2233.ts
+#EXTINF:-1,UK | CBS Reality UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2234.ts
+#EXTINF:-1,UK | CGTN News
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2235.ts
+#EXTINF:-1,UK | CGTN Documentary
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2236.ts
+#EXTINF:-1,UK | Channel 5 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2238.ts
+#EXTINF:-1,UK | CITV
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2239.ts
+#EXTINF:-1,UK | CNBC Europe
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2240.ts
+#EXTINF:-1,UK | Comedy Central HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2241.ts
+#EXTINF:-1,UK | Comedy Extra
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2242.ts
+#EXTINF:-1,UK | Discovery Shed UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2243.ts
+#EXTINF:-1,UK | Disney XD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2244.ts
+#EXTINF:-1,UK | DisneyChnl
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2245.ts
+#EXTINF:-1,UK | DisneyJunior
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2246.ts
+#EXTINF:-1,UK | Eden
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2248.ts
+#EXTINF:-1,UK | eir Sports 1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2249.ts
+#EXTINF:-1,UK | eir Sports 2
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2250.ts
+#EXTINF:-1,UK | Euronews
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2251.ts
+#EXTINF:-1,UK | FOX HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2252.ts
+#EXTINF:-1,UK | France 24 English
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2253.ts
+#EXTINF:-1,UK | Heart TV UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2254.ts
+#EXTINF:-1,UK | Home
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2255.ts
+#EXTINF:-1,UK | ITV
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2257.ts
+#EXTINF:-1,UK | ITV 1 Backup
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2258.ts
+#EXTINF:-1,UK | ITV Choice
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2259.ts
+#EXTINF:-1,UK | ITV HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2260.ts
+#EXTINF:-1,UK | ITV HD Backup
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2261.ts
+#EXTINF:-1,UK | Magic
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2262.ts
+#EXTINF:-1,UK | mov4men
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2263.ts
+#EXTINF:-1,UK | MTV Base UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2264.ts
+#EXTINF:-1,UK | MTV Christmas
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2265.ts
+#EXTINF:-1,UK | MTV Dance HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2266.ts
+#EXTINF:-1,UK | MTV Hits!
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2267.ts
+#EXTINF:-1,UK | MTV Live HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2268.ts
+#EXTINF:-1,UK | MTV Rocks UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2269.ts
+#EXTINF:-1,UK | Nat Geo Wild HD UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2270.ts
+#EXTINF:-1,UK | National Geographic HD UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2271.ts
+#EXTINF:-1,UK | NHK News HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2272.ts
+#EXTINF:-1,UK | Nick Jr Too
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2273.ts
+#EXTINF:-1,UK | Nick Junior
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2274.ts
+#EXTINF:-1,UK | Nick UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2275.ts
+#EXTINF:-1,UK | NickToons
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2276.ts
+#EXTINF:-1,UK | PREMIER SPORTS HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2278.ts
+#EXTINF:-1,UK | Quest
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2279.ts
+#EXTINF:-1,UK | QVC Beauty
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2280.ts
+#EXTINF:-1,UK | QVC Christmas
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2281.ts
+#EXTINF:-1,UK | QVC Style
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2282.ts
+#EXTINF:-1,UK | QVC U.K.
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2283.ts
+#EXTINF:-1,UK | RTE News
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2285.ts
+#EXTINF:-1,UK | RTEjr
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2286.ts
+#EXTINF:-1,UK | Russia Today HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2287.ts
+#EXTINF:-1,UK | S4C
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2288.ts
+#EXTINF:-1,UK | Setanta/Premier Sports HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2289.ts
+#EXTINF:-1,UK | Sky 1 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2292.ts
+#EXTINF:-1,UK | Sky Arts HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2293.ts
+#EXTINF:-1,UK | Sky Movies Christmas
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2294.ts
+#EXTINF:-1,UK | Sky News Arabia
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2295.ts
+#EXTINF:-1,UK | SKY News HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2296.ts
+#EXTINF:-1,UK | Sky Sp News HQ Backup
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2297.ts
+#EXTINF:-1,UK | Sky Sports 1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2298.ts
+#EXTINF:-1,UK | Sky Sports 2
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2299.ts
+#EXTINF:-1,UK | Sky Sports 3
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2300.ts
+#EXTINF:-1,UK | Sky Sports 4
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2301.ts
+#EXTINF:-1,UK | Sky Sports 5
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2302.ts
+#EXTINF:-1,UK | Sky Sports Mix
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2303.ts
+#EXTINF:-1,UK | Spike UK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2311.ts
+#EXTINF:-1,UK | Sports net 360 (EPL 3PM)
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2312.ts
+#EXTINF:-1,UK | Sports net One (EPL 3PM)
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2313.ts
+#EXTINF:-1,UK | Sports net Ontario (EPL 3PM)
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2314.ts
+#EXTINF:-1,UK | Sports net World (EPL 3PM)
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2315.ts
+#EXTINF:-1,----|ANGLAIS|----
+#EXTINF:-1,UK|UK|BBC News HD
+http://topiptv.net:5890/live/bmw/1234/4182.ts
+#EXTINF:-1,UK|BBC News
+http://topiptv.net:5890/live/bmw/1234/301.ts
+#EXTINF:-1,UK|UK|BBC One FHD
+http://topiptv.net:5890/live/bmw/1234/4181.ts
+#EXTINF:-1,UK|BBC One HD
+http://topiptv.net:5890/live/bmw/1234/297.ts
+#EXTINF:-1,UK|BBC Two FHD
+http://topiptv.net:5890/live/bmw/1234/4178.ts
+#EXTINF:-1,UK|BBC Two HD
+http://topiptv.net:5890/live/bmw/1234/298.ts
+#EXTINF:-1,UK|BBC Three HD
+http://topiptv.net:5890/live/bmw/1234/299.ts
+#EXTINF:-1,UK|BBC Four FHD
+http://topiptv.net:5890/live/bmw/1234/4179.ts
+#EXTINF:-1,UK|CBBC FHD
+http://topiptv.net:5890/live/bmw/1234/4180.ts
+#EXTINF:-1,UK|BBC Four
+http://topiptv.net:5890/live/bmw/1234/300.ts
+#EXTINF:-1,UK|TG4
+http://topiptv.net:5890/live/bmw/1234/1263.ts
+#EXTINF:-1,UK|UTV FHD
+http://topiptv.net:5890/live/bmw/1234/4166.ts
+#EXTINF:-1,UK|ITV FHD
+http://topiptv.net:5890/live/bmw/1234/4177.ts
+#EXTINF:-1,UK|ITV HD
+http://topiptv.net:5890/live/bmw/1234/1080.ts
+#EXTINF:-1,UK|ITV2 FHD
+http://topiptv.net:5890/live/bmw/1234/4176.ts
+#EXTINF:-1,UK|ITV2 HD
+http://topiptv.net:5890/live/bmw/1234/1081.ts
+#EXTINF:-1,UK|ITV3 FHD
+http://topiptv.net:5890/live/bmw/1234/4175.ts
+#EXTINF:-1,UK|ITV3 HD
+http://topiptv.net:5890/live/bmw/1234/1082.ts
+#EXTINF:-1,UK|ITV4 FHD
+http://topiptv.net:5890/live/bmw/1234/4174.ts
+#EXTINF:-1,UK|ITV4 HD
+http://topiptv.net:5890/live/bmw/1234/1083.ts
+#EXTINF:-1,UK|ITV Encore
+http://topiptv.net:5890/live/bmw/1234/4172.ts
+#EXTINF:-1,UK|ITVBe 1
+http://topiptv.net:5890/live/bmw/1234/4173.ts
+#EXTINF:-1,UK|Cbs Reality
+http://topiptv.net:5890/live/bmw/1234/1209.ts
+#EXTINF:-1,UK|Cbs Drama
+http://topiptv.net:5890/live/bmw/1234/1210.ts
+#EXTINF:-1,UK|Cbs Action
+http://topiptv.net:5890/live/bmw/1234/1211.ts
+#EXTINF:-1,UK|London Live
+http://topiptv.net:5890/live/bmw/1234/1128.ts
+#EXTINF:-1,UK|Channel 4 FHD
+http://topiptv.net:5890/live/bmw/1234/4169.ts
+#EXTINF:-1,UK|Channel 4 HD
+http://topiptv.net:5890/live/bmw/1234/270.ts
+#EXTINF:-1,UK|Channel 5 FHD
+http://topiptv.net:5890/live/bmw/1234/4168.ts
+#EXTINF:-1,UK|Channel 5 HD
+http://topiptv.net:5890/live/bmw/1234/1079.ts
+#EXTINF:-1,UK|Home
+http://topiptv.net:5890/live/bmw/1234/1255.ts
+#EXTINF:-1,UK|CNN FHD
+http://topiptv.net:5890/live/bmw/1234/4165.ts
+#EXTINF:-1,UK|CNN
+http://topiptv.net:5890/live/bmw/1234/4117.ts
+#EXTINF:-1,UK|Sky News HD
+http://topiptv.net:5890/live/bmw/1234/812.ts
+#EXTINF:-1,--|UK SPORT|--
+http://topiptv.net:5890/live/bmw/1234/1449.ts
+#EXTINF:-1,UK|BT Sport 1 HD
+http://topiptv.net:5890/live/bmw/1234/4191.ts
+#EXTINF:-1,UK|BT Sport 1
+http://topiptv.net:5890/live/bmw/1234/279.ts
+#EXTINF:-1,UK|BT Sport 2 HD
+http://topiptv.net:5890/live/bmw/1234/4192.ts
+#EXTINF:-1,UK|BT Sport 2
+http://topiptv.net:5890/live/bmw/1234/280.ts
+#EXTINF:-1,UK|BT Sport 3 HD
+http://topiptv.net:5890/live/bmw/1234/4193.ts
+#EXTINF:-1,UK|BT Sport 3
+http://topiptv.net:5890/live/bmw/1234/3130.ts
+#EXTINF:-1,UK|BT Sport // ESPN
+http://topiptv.net:5890/live/bmw/1234/1257.ts
+#EXTINF:-1,UK|BT Sport Extra HD1
+http://topiptv.net:5890/live/bmw/1234/1215.ts
+#EXTINF:-1,UK|BT Sport Extra HD2
+http://topiptv.net:5890/live/bmw/1234/4110.ts
+#EXTINF:-1,UK|BT Sport Extra HD3
+http://topiptv.net:5890/live/bmw/1234/4111.ts
+#EXTINF:-1,UK|BT Sport Extra HD4
+http://topiptv.net:5890/live/bmw/1234/4112.ts
+#EXTINF:-1,UK|BT Sport Extra HD5
+http://topiptv.net:5890/live/bmw/1234/4113.ts
+#EXTINF:-1,UK|Sky Sports 1 HD
+http://topiptv.net:5890/live/bmw/1234/4184.ts
+#EXTINF:-1,UK|Sky Sports 1
+http://topiptv.net:5890/live/bmw/1234/273.ts
+#EXTINF:-1,UK|Sky Sports 2 HD
+http://topiptv.net:5890/live/bmw/1234/4185.ts
+#EXTINF:-1,UK|Sky Sports 2
+http://topiptv.net:5890/live/bmw/1234/274.ts
+#EXTINF:-1,UK|Sky Sports 3 HD
+http://topiptv.net:5890/live/bmw/1234/4186.ts
+#EXTINF:-1,UK|Sky Sports 3
+http://topiptv.net:5890/live/bmw/1234/275.ts
+#EXTINF:-1,UK|Sky Sports 4 HD
+http://topiptv.net:5890/live/bmw/1234/4187.ts
+#EXTINF:-1,UK|Sky Sports 4
+http://topiptv.net:5890/live/bmw/1234/276.ts
+#EXTINF:-1,UK|Sky Sports 5 HD
+http://topiptv.net:5890/live/bmw/1234/4188.ts
+#EXTINF:-1,UK|Sky Sports 5
+http://topiptv.net:5890/live/bmw/1234/277.ts
+#EXTINF:-1,UK|Sky Sports F1 HD
+http://topiptv.net:5890/live/bmw/1234/4189.ts
+#EXTINF:-1,UK|Sky Sports F1
+http://topiptv.net:5890/live/bmw/1234/278.ts
+#EXTINF:-1,Premiere Sport HD
+http://topiptv.net:5890/live/bmw/1234/3676.ts
+#EXTINF:-1,UK|Euro Sports 1 HD
+http://topiptv.net:5890/live/bmw/1234/283.ts
+#EXTINF:-1,UK|Euro Sports 2 HD
+http://topiptv.net:5890/live/bmw/1234/4190.ts
+#EXTINF:-1,UK|eir SPORTS 1
+http://topiptv.net:5890/live/bmw/1234/281.ts
+#EXTINF:-1,UK|MU TV
+http://topiptv.net:5890/live/bmw/1234/3131.ts
+#EXTINF:-1,UK|LFC TV
+http://topiptv.net:5890/live/bmw/1234/3220.ts
+#EXTINF:-1,UK|Chelsea TV
+http://topiptv.net:5890/live/bmw/1234/3219.ts
+#EXTINF:-1,UK|BOX NATION
+http://topiptv.net:5890/live/bmw/1234/1711.ts
+#EXTINF:-1,UK|Racing
+http://topiptv.net:5890/live/bmw/1234/1259.ts
+#EXTINF:-1,UK|MOTORS TV
+http://topiptv.net:5890/live/bmw/1234/1258.ts
+#EXTINF:-1,--|UK CINEMA|--
+http://topiptv.net:5890/live/bmw/1234/1448.ts
+#EXTINF:-1,UK|Sky 1 FHD
+http://topiptv.net:5890/live/bmw/1234/4167.ts
+#EXTINF:-1,UK|Sky1 HD
+http://topiptv.net:5890/live/bmw/1234/266.ts
+#EXTINF:-1,UK|Sky2
+http://topiptv.net:5890/live/bmw/1234/267.ts
+#EXTINF:-1,UK|Film4 HD
+http://topiptv.net:5890/live/bmw/1234/1086.ts
+#EXTINF:-1,UK|Sky Arts 1
+http://topiptv.net:5890/live/bmw/1234/1254.ts
+#EXTINF:-1,UK|Sky Select HD
+http://topiptv.net:5890/live/bmw/1234/257.ts
+#EXTINF:-1,UK|Sky Movies Premiere
+http://topiptv.net:5890/live/bmw/1234/264.ts
+#EXTINF:-1,UK|Sky Movies Great&Modern
+http://topiptv.net:5890/live/bmw/1234/1207.ts
+#EXTINF:-1,UK|Sky Movies Disney HD
+http://topiptv.net:5890/live/bmw/1234/1253.ts
+#EXTINF:-1,UK|Sky Movies Drama
+http://topiptv.net:5890/live/bmw/1234/258.ts
+#EXTINF:-1,UK|DinsenyChannel
+http://topiptv.net:5890/live/bmw/1234/1090.ts
+#EXTINF:-1,UK|Sky Disney HD
+http://topiptv.net:5890/live/bmw/1234/282.ts
+#EXTINF:-1,UK|Sky Movies Comedy
+http://topiptv.net:5890/live/bmw/1234/806.ts
+#EXTINF:-1,UK|Sky Atlantic HD
+http://topiptv.net:5890/live/bmw/1234/261.ts
+#EXTINF:-1,UK|Sky ScFi/HorHD
+http://topiptv.net:5890/live/bmw/1234/263.ts
+#EXTINF:-1,UK|Sky Movies Showcase
+http://topiptv.net:5890/live/bmw/1234/1087.ts
+#EXTINF:-1,UK|Sky Movies Family
+http://topiptv.net:5890/live/bmw/1234/1088.ts
+#EXTINF:-1,UK|Sky Movies Action
+http://topiptv.net:5890/live/bmw/1234/1089.ts
+#EXTINF:-1,UK|Sky Living
+http://topiptv.net:5890/live/bmw/1234/1085.ts
+#EXTINF:-1,UK|Sky Movies Thriller
+http://topiptv.net:5890/live/bmw/1234/260.ts
+#EXTINF:-1,UK|Sky True Movies
+http://topiptv.net:5890/live/bmw/1234/271.ts
+#EXTINF:-1,UK|Sky True Movies 2
+http://topiptv.net:5890/live/bmw/1234/272.ts
+#EXTINF:-1,UK|Dave
+http://topiptv.net:5890/live/bmw/1234/269.ts
+#EXTINF:-1,UK|Fox
+http://topiptv.net:5890/live/bmw/1234/1208.ts
+#EXTINF:-1,UK|Syfy
+http://topiptv.net:5890/live/bmw/1234/265.ts
+#EXTINF:-1,UK|Good Food
+http://topiptv.net:5890/live/bmw/1234/1213.ts
+#EXTINF:-1,UK|Food Network
+http://topiptv.net:5890/live/bmw/1234/1212.ts
+#EXTINF:-1,--|UK CULTURE|--
+http://topiptv.net:5890/live/bmw/1234/1450.ts
+#EXTINF:-1,UK|Travel Channel
+http://topiptv.net:5890/live/bmw/1234/4164.ts
+#EXTINF:-1,UK|NatGeoGraphic
+http://topiptv.net:5890/live/bmw/1234/286.ts
+#EXTINF:-1,UK|NationalGeography-Wild
+http://topiptv.net:5890/live/bmw/1234/807.ts
+#EXTINF:-1,UK|DiscoverySc
+http://topiptv.net:5890/live/bmw/1234/291.ts
+#EXTINF:-1,UK|DiscoveryHistory
+http://topiptv.net:5890/live/bmw/1234/292.ts
+#EXTINF:-1,UK|Disc Turbo
+http://topiptv.net:5890/live/bmw/1234/1106.ts
+#EXTINF:-1,UK|DiscoveryCI
+http://topiptv.net:5890/live/bmw/1234/290.ts
+#EXTINF:-1,UK|Discovery HD
+http://topiptv.net:5890/live/bmw/1234/289.ts
+#EXTINF:-1,UK|DiscoveryWorld
+http://topiptv.net:5890/live/bmw/1234/1260.ts
+#EXTINF:-1,UK|AnimalPlanet
+http://topiptv.net:5890/live/bmw/1234/288.ts
+#EXTINF:-1,--|UK ENFANTS|--
+http://topiptv.net:5890/live/bmw/1234/1451.ts
+#EXTINF:-1,UK|Nick Jr
+http://topiptv.net:5890/live/bmw/1234/1084.ts
+#EXTINF:-1,UK|Sky Baby
+http://topiptv.net:5890/live/bmw/1234/2707.ts
+#EXTINF:-1,UK|Nicktoons
+http://topiptv.net:5890/live/bmw/1234/284.ts
+#EXTINF:-1,UK|nickelodeon
+http://topiptv.net:5890/live/bmw/1234/285.ts
+#EXTINF:-1,UK|Cartoon Network
+http://topiptv.net:5890/live/bmw/1234/813.ts
+#EXTINF:-1,UK|Boomerang
+http://topiptv.net:5890/live/bmw/1234/4238.ts
+#EXTINF:-1,UK|Disney Chaneel
+http://topiptv.net:5890/live/bmw/1234/4241.ts
+#EXTINF:-1,UK|Disney JR
+http://topiptv.net:5890/live/bmw/1234/4240.ts
+#EXTINF:-1,UK|Disney XD
+http://topiptv.net:5890/live/bmw/1234/4239.ts
+#EXTINF:-1,UK|Cartoonito
+http://topiptv.net:5890/live/bmw/1234/4242.ts
+#EXTINF:-1,---☛ ENGLISH ☚---
+#EXTINF:-1,UK: BBC 1
+http://p.tone.kim/live/LUCAS/LUCAS/2247.ts
+#EXTINF:-1,UK: BBC 2
+http://p.tone.kim/live/LUCAS/LUCAS/2248.ts
+#EXTINF:-1,UK: BBC 3
+http://p.tone.kim/live/LUCAS/LUCAS/2249.ts
+#EXTINF:-1,UK: BBC 4
+http://p.tone.kim/live/LUCAS/LUCAS/2250.ts
+#EXTINF:-1,UK: BOX NATION
+http://p.tone.kim/live/LUCAS/LUCAS/2251.ts
+#EXTINF:-1,UK: BT ESPN HD
+http://p.tone.kim/live/LUCAS/LUCAS/2252.ts
 #EXTINF:-1,UK: BT Sport 1 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12945.ts
-#EXTINF:-1,UK: BT Sport 2
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12965.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2253.ts
 #EXTINF:-1,UK: BT Sport 2 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12944.ts
-#EXTINF:-1,UK: BT SPORT 3
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12963.ts
-#EXTINF:-1,UK: BT Sport Europe
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12964.ts
-#EXTINF:-1,UK: BT Sport europe HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12943.ts
-#EXTINF:-1,UK: Cartoon Network
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12889.ts
-#EXTINF:-1,UK: Channel 5 USA
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12895.ts
-#EXTINF:-1,UK: Channel 5Star
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12894.ts
-#EXTINF:-1,UK: Channel4 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12893.ts
-#EXTINF:-1,UK: Channel5
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12896.ts
-#EXTINF:-1,UK: Chelsea
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12957.ts
-#EXTINF:-1,UK: Cnn Int
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12862.ts
-#EXTINF:-1,UK: Comedy Central
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12922.ts
-#EXTINF:-1,UK: Dave
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12916.ts
-#EXTINF:-1,UK: Discovery Channel
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12873.ts
-#EXTINF:-1,UK: Discovery History
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12872.ts
-#EXTINF:-1,UK: Discovery Science
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12871.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12870.ts
-#EXTINF:-1,UK: Disney Channel
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12882.ts
-#EXTINF:-1,UK: DISNEY JUNIOR
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12881.ts
-#EXTINF:-1,UK: Disney XD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12880.ts
-#EXTINF:-1,UK: Dmax
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12918.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2254.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://p.tone.kim/live/LUCAS/LUCAS/2255.ts
+#EXTINF:-1,UK: CBS action
+http://p.tone.kim/live/LUCAS/LUCAS/2256.ts
+#EXTINF:-1,UK: Discovery Channel history
+http://p.tone.kim/live/LUCAS/LUCAS/2257.ts
 #EXTINF:-1,UK: E4
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12890.ts
-#EXTINF:-1,UK: ESPN
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12967.ts
-#EXTINF:-1,UK: Film 4 UK
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12921.ts
-#EXTINF:-1,UK: Food Network
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12865.ts
-#EXTINF:-1,UK: Fox
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12919.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2258.ts
 #EXTINF:-1,UK: Gold
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12897.ts
-#EXTINF:-1,UK: History Channel
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12867.ts
-#EXTINF:-1,UK: Home
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12898.ts
-#EXTINF:-1,UK: Horror Channel
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12925.ts
-#EXTINF:-1,UK: Investion Discovery
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12869.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12908.ts
-#EXTINF:-1,UK: ITV 2
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12906.ts
-#EXTINF:-1,UK: ITV 3
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12905.ts
-#EXTINF:-1,UK: ITV 4
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12904.ts
-#EXTINF:-1,UK: ITV BE
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12909.ts
-#EXTINF:-1,UK: ITV Encore
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12910.ts
-#EXTINF:-1,UK: ITV One SD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12907.ts
-#EXTINF:-1,UK: Liverpool
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12954.ts
-#EXTINF:-1,UK: More4
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12902.ts
-#EXTINF:-1,UK: Motor TV
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12941.ts
-#EXTINF:-1,UK: Movies 4 Men
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12920.ts
-#EXTINF:-1,UK: MTV
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12878.ts
-#EXTINF:-1,UK: MTV Hits
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12876.ts
-#EXTINF:-1,UK: MTV Music
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12877.ts
-#EXTINF:-1,UK: MUTV
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12956.ts
-#EXTINF:-1,UK: Nat Geo Channel
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12875.ts
-#EXTINF:-1,UK: National Geography Wild
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12874.ts
-#EXTINF:-1,UK: Nickelodeon
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12886.ts
-#EXTINF:-1,UK: Nickelodeon Jr
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12887.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2259.ts
+#EXTINF:-1,UK: ITV1
+http://p.tone.kim/live/LUCAS/LUCAS/2260.ts
+#EXTINF:-1,UK: ITV2
+http://p.tone.kim/live/LUCAS/LUCAS/2261.ts
+#EXTINF:-1,UK: ITV3
+http://p.tone.kim/live/LUCAS/LUCAS/2262.ts
+#EXTINF:-1,UK: ITV4
+http://p.tone.kim/live/LUCAS/LUCAS/2263.ts
+#EXTINF:-1,UK: Liverpool FC  tv
+http://p.tone.kim/live/LUCAS/LUCAS/2264.ts
+#EXTINF:-1,UK: Manchester TV
+http://p.tone.kim/live/LUCAS/LUCAS/2265.ts
+#EXTINF:-1,UK: More 4
+http://p.tone.kim/live/LUCAS/LUCAS/2266.ts
+#EXTINF:-1,UK: Nat. Geo
+http://p.tone.kim/live/LUCAS/LUCAS/2267.ts
 #EXTINF:-1,UK: Nicktoons
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12888.ts
-#EXTINF:-1,UK: Pick TV
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12891.ts
-#EXTINF:-1,UK: Premier Sports
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12960.ts
-#EXTINF:-1,UK: Racing UK
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12959.ts
-#EXTINF:-1,UK: RealMadrid
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12953.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12958.ts
-#EXTINF:-1,UK: Sky Action
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12933.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12930.ts
-#EXTINF:-1,UK: Sky Comedy
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12931.ts
-#EXTINF:-1,UK: Sky Disney
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12883.ts
-#EXTINF:-1,UK: Sky Drama
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12934.ts
-#EXTINF:-1,UK: Sky Family
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12935.ts
-#EXTINF:-1,UK: Sky Greats
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12936.ts
-#EXTINF:-1,UK: Sky Living
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12901.ts
-#EXTINF:-1,UK: Sky Movies ShowCase
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12929.ts
-#EXTINF:-1,UK: Sky One HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12928.ts
-#EXTINF:-1,UK: Sky Premiere
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12938.ts
-#EXTINF:-1,UK: Sky Scifi and horror
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12939.ts
-#EXTINF:-1,UK: Sky Select
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12940.ts
-#EXTINF:-1,UK: Sky ShowCase
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12937.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12974.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2268.ts
+#EXTINF:-1,UK: Premier Sports HD
+http://p.tone.kim/live/LUCAS/LUCAS/2269.ts
+#EXTINF:-1,UK: Racing
+http://p.tone.kim/live/LUCAS/LUCAS/2270.ts
+#EXTINF:-1,UK: Sky living
+http://p.tone.kim/live/LUCAS/LUCAS/2271.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure
+http://p.tone.kim/live/LUCAS/LUCAS/2272.ts
+#EXTINF:-1,UK: Sky Movies Atlantic
+http://p.tone.kim/live/LUCAS/LUCAS/2273.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://p.tone.kim/live/LUCAS/LUCAS/2274.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller
+http://p.tone.kim/live/LUCAS/LUCAS/2275.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://p.tone.kim/live/LUCAS/LUCAS/2276.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance
+http://p.tone.kim/live/LUCAS/LUCAS/2277.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://p.tone.kim/live/LUCAS/LUCAS/2278.ts
+#EXTINF:-1,UK: Sky Movies Modern Greats
+http://p.tone.kim/live/LUCAS/LUCAS/2279.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://p.tone.kim/live/LUCAS/LUCAS/2280.ts
+#EXTINF:-1,UK: Sky Movies Sci-fi & Horror
+http://p.tone.kim/live/LUCAS/LUCAS/2281.ts
 #EXTINF:-1,UK: Sky Sports 1 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12952.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12973.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2282.ts
 #EXTINF:-1,UK: Sky Sports 2 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12951.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12972.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2283.ts
 #EXTINF:-1,UK: Sky Sports 3 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12950.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12971.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2284.ts
 #EXTINF:-1,UK: Sky Sports 4 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12949.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12970.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2285.ts
 #EXTINF:-1,UK: Sky Sports 5 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12948.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2286.ts
 #EXTINF:-1,UK: Sky Sports F1
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12969.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12946.ts
-#EXTINF:-1,UK: Sky Sports News
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12968.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12947.ts
-#EXTINF:-1,UK: Sky Thriller
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12932.ts
-#EXTINF:-1,UK: Sky Two HD
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12927.ts
-#EXTINF:-1,UK: SkyNews
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12863.ts
-#EXTINF:-1,UK: SyFy
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12917.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2287.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://p.tone.kim/live/LUCAS/LUCAS/2288.ts
 #EXTINF:-1,UK: TLC
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12868.ts
-#EXTINF:-1,UK: Travel Channel
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12866.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2289.ts
+#EXTINF:-1,UK: TMC
+http://p.tone.kim/live/LUCAS/LUCAS/2290.ts
+#EXTINF:-1,UK: Travel channel
+http://p.tone.kim/live/LUCAS/LUCAS/2291.ts
 #EXTINF:-1,UK: True Movies
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12924.ts
-#EXTINF:-1,UK: True Movies 2
-http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/12923.ts
-#EXTM3U
-#EXTINF:-1,❦❦❦❦❦❦ TURKISH❦❦❦❦❦❦❦❦❦
-#EXTINF:-1,TR_KANAL_7_HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3127.ts
-#EXTINF:-1,TR:  Bloomberg
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6697.ts
-#EXTINF:-1,TR:  BursaSpor
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6698.ts
-#EXTINF:-1,TR:  Discovery Turbo Xtra
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6759.ts
-#EXTINF:-1,TR:  Disney Junior
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6760.ts
-#EXTINF:-1,TR:  Disney XD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6761.ts
-#EXTINF:-1,TR:  Dizi TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6762.ts
-#EXTINF:-1,TR:  Ekin TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6763.ts
-#EXTINF:-1,TR: 24 TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5452.ts
-#EXTINF:-1,TR: 360
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3136.ts
-#EXTINF:-1,TR: A Haber
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6689.ts
-#EXTINF:-1,TR: A Spor
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6691.ts
-#EXTINF:-1,TR: A2
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6688.ts
-#EXTINF:-1,TR: Aksu TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5453.ts
-#EXTINF:-1,TR: Anadolu TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6690.ts
-#EXTINF:-1,TR: Animal Planet
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6692.ts
-#EXTINF:-1,TR: ATV Avrupa
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6693.ts
-#EXTINF:-1,TR: ATV HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1377.ts
-#EXTINF:-1,TR: BABY TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6694.ts
-#EXTINF:-1,TR: BBC Earth
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6695.ts
-#EXTINF:-1,TR: Belgesel
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6756.ts
-#EXTINF:-1,TR: BENGUTURK TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3545.ts
-#EXTINF:-1,TR: Beyaz TV (TR)
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1376.ts
-#EXTINF:-1,TR: BJK TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6696.ts
-#EXTINF:-1,TR: CARTOON NETWORK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3544.ts
-#EXTINF:-1,TR: CEM TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3547.ts
-#EXTINF:-1,TR: CNN TURK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3542.ts
-#EXTINF:-1,TR: Da Vinci Learning
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6758.ts
-#EXTINF:-1,TR: Discovery Channel
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6757.ts
-#EXTINF:-1,TR: Discovery Science
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5454.ts
-#EXTINF:-1,TR: DISNEY CHANNEL
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3543.ts
-#EXTINF:-1,TR: Dream Turk
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5455.ts
-#EXTINF:-1,TR: Dream TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5456.ts
-#EXTINF:-1,TR: Ege TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5457.ts
-#EXTINF:-1,TR: Euronews
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6766.ts
-#EXTINF:-1,TR: FB TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6764.ts
-#EXTINF:-1,TR: FIL_TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3130.ts
-#EXTINF:-1,TR: Filmbox Arthouse
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6765.ts
-#EXTINF:-1,TR: FLASH TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3128.ts
-#EXTINF:-1,TR: FOX Crime
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6769.ts
-#EXTINF:-1,TR: FOX Life
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6770.ts
-#EXTINF:-1,TR: Fox TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1369.ts
-#EXTINF:-1,TR: FX TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6771.ts
-#EXTINF:-1,TR: GS TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6772.ts
-#EXTINF:-1,TR: Haber
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6803.ts
-#EXTINF:-1,TR: HALK TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3546.ts
-#EXTINF:-1,TR: History Channel
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6773.ts
-#EXTINF:-1,TR: Kanal 3
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6774.ts
-#EXTINF:-1,TR: Kanal 7 Avrupa
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6775.ts
-#EXTINF:-1,TR: KANAL 7 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1584.ts
-#EXTINF:-1,TR: KANAL A
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1577.ts
-#EXTINF:-1,TR: KANAL AVRUPA
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1582.ts
-#EXTINF:-1,TR: KANAL D HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/704.ts
-#EXTINF:-1,TR: Kral Pop
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6777.ts
-#EXTINF:-1,TR: Kral TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6776.ts
-#EXTINF:-1,TR: KRAL_POP
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3134.ts
-#EXTINF:-1,TR: Nat Geo Wild
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6786.ts
-#EXTINF:-1,TR: National Geographic
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6785.ts
-#EXTINF:-1,TR: Nick Jr.
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6788.ts
-#EXTINF:-1,TR: Nickelodeon
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6787.ts
-#EXTINF:-1,TR: NTV HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3541.ts
-#EXTINF:-1,TR: NTV Spor
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/707.ts
-#EXTINF:-1,TR: NUMBER ONE
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3137.ts
-#EXTINF:-1,TR: Planet Cocuk
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6789.ts
-#EXTINF:-1,TR: Planet Pembe
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6790.ts
-#EXTINF:-1,TR: Planet Turk
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6806.ts
-#EXTINF:-1,TR: POWER TURK HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1571.ts
-#EXTINF:-1,TR: Power TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6791.ts
-#EXTINF:-1,TR: Semerkand
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6792.ts
-#EXTINF:-1,TR: Show TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6794.ts
-#EXTINF:-1,TR: Show TV HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1381.ts
-#EXTINF:-1,TR: Showmax
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6793.ts
-#EXTINF:-1,TR: Sports TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6808.ts
-#EXTINF:-1,TR: STAR TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/703.ts
-#EXTINF:-1,TR: Star TV Euro
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6807.ts
-#EXTINF:-1,TR: TAY_TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3135.ts
-#EXTINF:-1,TR: Teve 2
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6805.ts
-#EXTINF:-1,TR: TGRT EU
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6804.ts
-#EXTINF:-1,TR: Trek
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6802.ts
-#EXTINF:-1,TR: TRT Arapca
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6801.ts
-#EXTINF:-1,TR: TRT Avaz
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6800.ts
-#EXTINF:-1,TR: TRT Cocuk
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1368.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1167.ts
-#EXTINF:-1,TR: TRT Turk
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1366.ts
-#EXTINF:-1,TR: TRT_1 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1138.ts
-#EXTINF:-1,TR: TRT_BELGESEL
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3126.ts
-#EXTINF:-1,TR: TRT_OKUL
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3125.ts
-#EXTINF:-1,TR: TRT_SPOR
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3124.ts
-#EXTINF:-1,TR: TV 2 HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3132.ts
-#EXTINF:-1,TR: TV Net
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6686.ts
-#EXTINF:-1,TR: TV_8_HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/3129.ts
-#EXTINF:-1,TR: TV8-5
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6687.ts
-#EXTINF:-1,TR: Ulke TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5459.ts
-#EXTINF:-1,TR: Ulusal Kanal
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/5458.ts
-#EXTINF:-1,TR: Vatan TV
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6685.ts
-#EXTINF:-1,TR: Viasat Nature
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6684.ts
-#EXTINF:-1,TR: YABAN
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1757.ts
-#EXTINF:-1,TR: Yasin
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6683.ts
-#EXTINF:-1,TR:KANALTURK
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1561.ts
-#EXTINF:-1,TR:TRT HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/525.ts
-#EXTINF:-1,TR:TVEM
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/1555.ts
-#EXTINF:-1,TR: FILMBOX HD
-http://clientportalpro.com:2500/live/mzjzVNBarl/nHnN8HHJFd/6816.ts
-#EXTINF:-1,Trt 1 HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/339.ts
-#EXTINF:-1,Trt Haber
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/340.ts
-#EXTINF:-1,Trt Belgesel
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/341.ts
-#EXTINF:-1,Trt Muzik
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/342.ts
-#EXTINF:-1,Trt Cocuk HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/343.ts
-#EXTINF:-1,Trt Spor HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/203.ts
-#EXTINF:-1,Tgrt Haber
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/344.ts
-#EXTINF:-1,Star TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2161.ts
-#EXTINF:-1,Star TV HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/345.ts
-#EXTINF:-1,Atv
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/335.ts
-#EXTINF:-1,Atv HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/346.ts
-#EXTINF:-1,Kanal D
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/321.ts
-#EXTINF:-1,Kanal D HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/347.ts
-#EXTINF:-1,Kanal 7
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2159.ts
-#EXTINF:-1,Kanal 7 HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/349.ts
-#EXTINF:-1,TV 8
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2158.ts
-#EXTINF:-1,TV 8 HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/350.ts
-#EXTINF:-1,TV 8.5
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2163.ts
-#EXTINF:-1,Fox TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2157.ts
-#EXTINF:-1,Fox TV HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/351.ts
-#EXTINF:-1,Bayaz
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2156.ts
-#EXTINF:-1,Beyaz TV HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/352.ts
-#EXTINF:-1,Kanal 24
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/353.ts
-#EXTINF:-1,Ntv Spor
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/354.ts
-#EXTINF:-1,Flash TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/355.ts
-#EXTINF:-1,A Haber HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/356.ts
-#EXTINF:-1,Semerkand
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/357.ts
-#EXTINF:-1,Ntv
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/359.ts
-#EXTINF:-1,Haber Turk
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/358.ts
-#EXTINF:-1,CNN Turk
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/360.ts
-#EXTINF:-1,Halk TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/362.ts
-#EXTINF:-1,Bloomberg
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/388.ts
-#EXTINF:-1,Bloomberg HT
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/363.ts
-#EXTINF:-1,Cartoon Network
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/364.ts
-#EXTINF:-1,Planet Cocuk
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/365.ts
-#EXTINF:-1,Planet Turk
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/366.ts
-#EXTINF:-1,Discovery Channel
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/370.ts
-#EXTINF:-1,National Geographic Channel
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/371.ts
-#EXTINF:-1,National Geographic Wild HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/372.ts
-#EXTINF:-1,National Geographic People HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/373.ts
-#EXTINF:-1,Animal Planet
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2040.ts
-#EXTINF:-1,Al Quran
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/374.ts
-#EXTINF:-1,Saudi Sunnah
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/375.ts
-#EXTINF:-1,Kanal Avrupa
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/376.ts
-#EXTINF:-1,Show Turk
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/378.ts
-#EXTINF:-1,Euro Star
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/377.ts
-#EXTINF:-1,Ntv Avrupa
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/379.ts
-#EXTINF:-1,Dream TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/381.ts
-#EXTINF:-1,Dream Turk
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/382.ts
-#EXTINF:-1,Power Turk
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/383.ts
-#EXTINF:-1,Fil TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/385.ts
-#EXTINF:-1,TV 2
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/276.ts
-#EXTINF:-1,World Travel Channel
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/384.ts
-#EXTINF:-1,Power TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/387.ts
-#EXTINF:-1,Kral TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/389.ts
-#EXTINF:-1,Kral Pop
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/390.ts
-#EXTINF:-1,Salon 1
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/391.ts
-#EXTINF:-1,Salon 2
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/392.ts
-#EXTINF:-1,Salon 3
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/393.ts
-#EXTINF:-1,Lig TV 1
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/394.ts
-#EXTINF:-1,Lig TV 2
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/395.ts
-#EXTINF:-1,Lig TV 3
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/396.ts
-#EXTINF:-1,Lig TV 4
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/397.ts
-#EXTINF:-1,Filmbox Premier HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/398.ts
-#EXTINF:-1,Filmbox Turk HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/402.ts
-#EXTINF:-1,Filmbox Korku HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/400.ts
-#EXTINF:-1,Filmbox Aksiyon HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/403.ts
-#EXTINF:-1,Filmbox Aile HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/399.ts
-#EXTINF:-1,A Sport HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/380.ts
-#EXTINF:-1,Cinemax
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/331.ts
-#EXTINF:-1,Smart Spor 1
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2037.ts
-#EXTINF:-1,Smart Spor 2
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2038.ts
-#EXTINF:-1,Ulke TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2047.ts
-#EXTINF:-1,Tivibu Spor 1
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2043.ts
-#EXTINF:-1,Tivibu Spor 2
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2044.ts
-#EXTINF:-1,Fenerbahce TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2045.ts
-#EXTINF:-1,Eurosport 1
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2042.ts
-#EXTINF:-1,Eurosport 2
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2041.ts
-#EXTINF:-1,Sport TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2165.ts
-#EXTINF:-1,Red 360 TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2176.ts
-#EXTINF:-1,Show TV
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2160.ts
-#EXTINF:-1,Show TV HD
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/348.ts
-#EXTINF:-1,Tlc
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2164.ts
-#EXTINF:-1,Nba
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2166.ts
-#EXTINF:-1,Disney Channel
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2175.ts
-#EXTINF:-1,Manika Go
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2173.ts
-#EXTINF:-1,Manika Cocuk
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2174.ts
-#EXTINF:-1,Number 1
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/368.ts
-#EXTINF:-1,Moviesmart Turk
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2167.ts
-#EXTINF:-1,Moviesmart Premium
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2168.ts
-#EXTINF:-1,Moviesmart Gold
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2169.ts
-#EXTINF:-1,Moviesmart Fest
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2170.ts
-#EXTINF:-1,Moviesmart Family
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2171.ts
-#EXTINF:-1,Moviesmart Action
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2172.ts
-#EXTINF:-1,A2
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2562.ts
-#EXTINF:-1,Lig TV 1 VIP
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2115.ts
-#EXTINF:-1,Lig TV 2 VIP
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2116.ts
-#EXTINF:-1,Lig TV 3 VIP
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2117.ts
-#EXTINF:-1,Lig TV 4 VIP
-http://185.99.3.14:25461/live/turkish-v2/FBT0pSq2Kg/2162.ts
+http://p.tone.kim/live/LUCAS/LUCAS/2292.ts
+#EXTINF:-1,UK-Sky-Sport1
+http://best4u.tn:8000/live/chaaben528/chaaben528/874.ts
+#EXTINF:-1,UK-SkySports1 SD
+http://best4u.tn:8000/live/chaaben528/chaaben528/2971.ts
+#EXTINF:-1,UK-Sky-Sport2
+http://best4u.tn:8000/live/chaaben528/chaaben528/421.ts
+#EXTINF:-1,UK-SkySports2 SD
+http://best4u.tn:8000/live/chaaben528/chaaben528/2972.ts
+#EXTINF:-1,UK-Sky-Sport3
+http://best4u.tn:8000/live/chaaben528/chaaben528/420.ts
+#EXTINF:-1,UK-SkySports3 SD
+http://best4u.tn:8000/live/chaaben528/chaaben528/2973.ts
+#EXTINF:-1,UK-Sky-Sport4
+http://best4u.tn:8000/live/chaaben528/chaaben528/419.ts
+#EXTINF:-1,UK-SkySports4 SD
+http://best4u.tn:8000/live/chaaben528/chaaben528/2974.ts
+#EXTINF:-1,UK-Sky-Sport5
+http://best4u.tn:8000/live/chaaben528/chaaben528/418.ts
+#EXTINF:-1,UK-SkySports5 SD
+http://best4u.tn:8000/live/chaaben528/chaaben528/2975.ts
+#EXTINF:-1,UK-sky_sport_F1
+http://best4u.tn:8000/live/chaaben528/chaaben528/2014.ts
+#EXTINF:-1,UK-Premier Sports
+http://best4u.tn:8000/live/chaaben528/chaaben528/2153.ts
+#EXTINF:-1,UK-Racing
+http://best4u.tn:8000/live/chaaben528/chaaben528/2016.ts
+#EXTINF:-1,UK-Box_Nation
+http://best4u.tn:8000/live/chaaben528/chaaben528/1595.ts
+#EXTINF:-1,UK:Setanta
+http://best4u.tn:8000/live/chaaben528/chaaben528/1504.ts
+#EXTINF:-1,UK-BTsport-europe
+http://best4u.tn:8000/live/chaaben528/chaaben528/1468.ts
+#EXTINF:-1,UK-BT_Sport1
+http://best4u.tn:8000/live/chaaben528/chaaben528/1308.ts
+#EXTINF:-1,UK-BT_Sport2
+http://best4u.tn:8000/live/chaaben528/chaaben528/1309.ts
+#EXTINF:-1,UK-Eurosport1_HD
+http://best4u.tn:8000/live/chaaben528/chaaben528/3830.ts
+#EXTINF:-1,UK-Eurosport2_HD
+http://best4u.tn:8000/live/chaaben528/chaaben528/3829.ts
+#EXTINF:-1,UK-BT-Espn
+http://best4u.tn:8000/live/chaaben528/chaaben528/1594.ts
+#EXTINF:-1,UK-Liverpool_FC
+http://best4u.tn:8000/live/chaaben528/chaaben528/2209.ts
+#EXTINF:-1,UK-AtThe-Races
+http://best4u.tn:8000/live/chaaben528/chaaben528/396.ts
+#EXTINF:-1,UK-Motors_TV
+http://best4u.tn:8000/live/chaaben528/chaaben528/2216.ts
+#EXTINF:-1,UK-Sky_Sports-News
+http://best4u.tn:8000/live/chaaben528/chaaben528/2223.ts
+#EXTINF:-1,spt-Sport_tonight-UK
+http://best4u.tn:8000/live/chaaben528/chaaben528/1263.ts
+#EXTINF:0,------|USA|------
+#EXTINF:0,US|beIN SPORTS
+http://topiptv.net:5890/live/bmw/1234/1723.ts
+#EXTINF:0,US|NBA
+http://topiptv.net:5890/live/bmw/1234/1848.ts
+#EXTINF:0,US|ABC
+http://topiptv.net:5890/live/bmw/1234/1847.ts
+#EXTINF:0,US|NFL
+http://topiptv.net:5890/live/bmw/1234/1789.ts
+#EXTINF:0,US|ESPN
+http://topiptv.net:5890/live/bmw/1234/1791.ts
+#EXTINF:0,US|TSN 1
+http://topiptv.net:5890/live/bmw/1234/1765.ts
+#EXTINF:0,US|TSN 2
+http://topiptv.net:5890/live/bmw/1234/1764.ts
+#EXTINF:0,US|TSN 3
+http://topiptv.net:5890/live/bmw/1234/1763.ts
+#EXTINF:0,US|TSN 4
+http://topiptv.net:5890/live/bmw/1234/1762.ts
+#EXTINF:0,US|TSN 5
+http://topiptv.net:5890/live/bmw/1234/1761.ts
+#EXTINF:0,US|FOX SPORT 1 HD
+http://topiptv.net:5890/live/bmw/1234/1767.ts
+#EXTINF:0,US|FOX SPORT 2 HD
+http://topiptv.net:5890/live/bmw/1234/1766.ts
+#EXTINF:0,US|ASTRO SPORT 1
+http://topiptv.net:5890/live/bmw/1234/1769.ts
+#EXTINF:0,US|ASTRO SPORT 2
+http://topiptv.net:5890/live/bmw/1234/1770.ts
+#EXTINF:0,US|ASTRO SPORT 3
+http://topiptv.net:5890/live/bmw/1234/1768.ts
+#EXTINF:0,US|ASTRO SPORT 4
+http://topiptv.net:5890/live/bmw/1234/1790.ts
+#EXTINF:0,US|ABC NEWS
+http://topiptv.net:5890/live/bmw/1234/1760.ts
+#EXTINF:0,US|NBC
+http://topiptv.net:5890/live/bmw/1234/1846.ts
+#EXTINF:0,US|WWE RAW HD
+http://topiptv.net:5890/live/bmw/1234/1864.ts
+#EXTINF:0,US|HBO Zone
+http://topiptv.net:5890/live/bmw/1234/1861.ts
+#EXTINF:0,US|HBO Signature
+http://topiptv.net:5890/live/bmw/1234/1862.ts
+#EXTINF:0,US|HBO HD
+http://topiptv.net:5890/live/bmw/1234/1863.ts
+#EXTINF:0,US|Hallmark
+http://topiptv.net:5890/live/bmw/1234/1860.ts
+#EXTINF:-1,||||||||||||||| ( USA ) |||||||||||||||
+#EXTINF:-1,USA | CBSN
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2111.ts
+#EXTINF:-1,USA | CBS Reality
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2125.ts
+#EXTINF:-1,USA | CBS ACTION
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2112.ts
+#EXTINF:-1,USA | FOX Sport 1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2128.ts
+#EXTINF:-1,USA | FOX sport 2
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2110.ts
+#EXTINF:-1,USA | AMC HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2113.ts
+#EXTINF:-1,USA | ABC News HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2114.ts
+#EXTINF:-1,USA | CNN International Live
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2109.ts
+#EXTINF:-1,USA | A&E HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2122.ts
+#EXTINF:-1,USA | NBCSN HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2119.ts
+#EXTINF:-1,USA | NBA HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2132.ts
+#EXTINF:-1,USA | Food Network HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2120.ts
+#EXTINF:-1,USA | Nick HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2131.ts
+#EXTINF:-1,USA | AFN News
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2124.ts
+#EXTINF:-1,USA | AFN SPORTS HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2126.ts
+#EXTINF:-1,USA | AFN Sports 2
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2127.ts
+#EXTINF:-1,USA | AFN PRIME ATLANTIC
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2115.ts
+#EXTINF:-1,USA | WWE HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2130.ts
+#EXTINF:-1,USA | ESPN HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2129.ts
+#EXTINF:-1,USA | HBO HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2123.ts
+#EXTINF:-1,USA | TBS HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2116.ts
+#EXTINF:-1,USA | CNBC
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2117.ts
+#EXTINF:-1,USA | CW HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2121.ts
+#EXTINF:-1,USA | TNT
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2133.ts
+#EXTINF:-1,USA | HALLMARK
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2138.ts
+#EXTINF:-1,USA | Starz Cinema
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2118.ts
+#EXTINF:-1,USA | TSN 1
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2137.ts
+#EXTINF:-1,USA | TSN 2
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2136.ts
+#EXTINF:-1,USA | TSN 3
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2135.ts
+#EXTINF:-1,USA | TSN 4
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2134.ts
+#EXTINF:-1,USA | 5 star Max
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2910.ts
+#EXTINF:-1,USA | AFN_Movies
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2901.ts
+#EXTINF:-1,USA | Bravo
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2906.ts
+#EXTINF:-1,USA | CBS_drama
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2903.ts
+#EXTINF:-1,USA | Discovery_showcase
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2909.ts
+#EXTINF:-1,USA | ESPN 2 HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2908.ts
+#EXTINF:-1,USA | FXX
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2900.ts
+#EXTINF:-1,USA | HBO_Comedy
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2902.ts
+#EXTINF:-1,USA | NFL Network
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2905.ts
+#EXTINF:-1,USA | STARZ EDGE HD
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2907.ts
+#EXTINF:-1,USA | TVO_Kids
+http://v1.dreamco.info:7002/live/zeeshan/zeeshan/2904.ts
